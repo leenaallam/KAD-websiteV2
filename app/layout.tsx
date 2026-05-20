@@ -42,6 +42,10 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "KAD" }],
   creator: "KAD",
+  icons: {
+    icon: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   metadataBase: new URL("https://kad.studio"),
   openGraph: {
     type: "website",

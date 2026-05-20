@@ -1,10 +1,6 @@
 import { NextResponse } from "next/server";
 
-/**
- * Contact form intake — Phase 2 stub. Validates shape and logs the
- * submission server-side. Phase 3 wires this into a Supabase row + a
- * Resend transactional email to the studio inbox.
- */
+const WEB3FORMS_KEY = "a15f8cb2-bd48-4219-a1fc-4609b7295a76";
 
 type ContactPayload = {
   name?: unknown;
@@ -49,17 +45,27 @@ export async function POST(req: Request) {
     );
   }
 
-  const submission = {
-    receivedAt: new Date().toISOString(),
-    name: body.name,
-    email: body.email,
-    phone: isNonEmptyString(body.phone) ? body.phone : null,
-    subject: isNonEmptyString(body.subject) ? body.subject : null,
-    message: body.message,
-  };
+  const res = await fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      access_key: WEB3FORMS_KEY,
+      name: body.name,
+      email: body.email,
+      phone: isNonEmptyString(body.phone) ? body.phone : undefined,
+      subject: isNonEmptyString(body.subject) ? body.subject : "New KAD Contact Form",
+      message: body.message,
+    }),
+  });
 
-  // Phase 3 — replace with Supabase insert + Resend send
-  console.log("[contact] new submission:", submission);
+  const result = await res.json();
+
+  if (!result.success) {
+    return NextResponse.json(
+      { error: result.message || "Failed to send message" },
+      { status: 500 }
+    );
+  }
 
   return NextResponse.json({ ok: true });
 }

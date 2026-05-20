@@ -38,18 +38,40 @@ export async function POST(req: Request) {
   const id = crypto.randomUUID();
   const receivedAt = new Date().toISOString();
 
-  // STUB — surface the lead in dev terminal until Supabase is wired
-  // eslint-disable-next-line no-console
-  console.log("[lead] received", {
-    id,
-    receivedAt,
-    category: result.data.category,
-    projectType: result.data.projectType,
-    contact: result.data.contact,
-    counts: {
-      files: result.data.files.length,
-    },
+  const web3Res = await fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      access_key: "a15f8cb2-bd48-4219-a1fc-4609b7295a76",
+      subject: `New KAD Portal Lead — ${result.data.category} / ${result.data.projectType}`,
+      name: result.data.contact.fullName,
+      email: result.data.contact.email,
+      phone: result.data.contact.phone,
+      whatsapp: result.data.contact.whatsapp,
+      category: result.data.category,
+      project_type: result.data.projectType,
+      size: result.data.size,
+      budget: result.data.budget,
+      files_count: String(result.data.files.length),
+      message: [
+        `Category: ${result.data.category}`,
+        `Project Type: ${result.data.projectType}`,
+        `Size: ${result.data.size}`,
+        `Budget: ${result.data.budget}`,
+        `Files: ${result.data.files.length}`,
+        `Phone: ${result.data.contact.phone}`,
+        `WhatsApp: ${result.data.contact.whatsapp}`,
+      ].join("\n"),
+    }),
   });
+
+  const web3Result = await web3Res.json();
+  if (!web3Result.success) {
+    return NextResponse.json(
+      { error: web3Result.message || "Failed to send lead" },
+      { status: 500 }
+    );
+  }
 
   // Keep response shape stable — Phase 3 backend returns the same fields.
   return NextResponse.json({
