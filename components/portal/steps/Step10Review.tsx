@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { useState } from "react";
 import { StepNav } from "../StepNav";
 import { STEPS, usePortalStore } from "@/lib/stores/portalStore";
 import { ease } from "@/lib/animations/easings";
@@ -21,51 +20,48 @@ export function Step10Review() {
   const jumpTo = usePortalStore((s) => s.jumpTo);
   const markSubmitting = usePortalStore((s) => s.markSubmitting);
   const next = usePortalStore((s) => s.next);
-  const [submitError, setSubmitError] = useState<string | null>(null);
 
   const handleSubmit = async () => {
-    setSubmitError(null);
     markSubmitting(true);
     // Move forward immediately — Step 11 shows the cinematic processing
     // sequence and watches the `submitted` flag on the store.
     next();
 
     try {
-      const body = {
-        category: state.category,
-        projectType: state.projectType,
-        size: state.size,
-        budget: state.budget,
-        // Files travel as metadata only at this stage — bytes are sent
-        // direct-to-Storage in Phase 3 backend wire-up.
-        files: state.files.map((f) => ({
-          name: f.name,
-          size: f.size,
-          type: f.type,
-        })),
-        contact: state.contact,
-      };
-      const res = await fetch("/api/leads", {
+      const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(body),
+        body: JSON.stringify({
+          access_key: "a15f8cb2-bd48-4219-a1fc-4609b7295a76",
+          subject: `New KAD Portal Lead — ${state.category} / ${state.projectType}`,
+          name: state.contact.fullName,
+          email: state.contact.email,
+          phone: state.contact.phone,
+          whatsapp: state.contact.whatsapp,
+          category: state.category,
+          project_type: state.projectType,
+          size: state.size,
+          budget: state.budget,
+          files_count: String(state.files.length),
+          message: [
+            `Category: ${state.category}`,
+            `Project Type: ${state.projectType}`,
+            `Size: ${state.size}`,
+            `Budget: ${state.budget}`,
+            `Files: ${state.files.length}`,
+            `Phone: ${state.contact.phone}`,
+            `WhatsApp: ${state.contact.whatsapp}`,
+          ].join("\n"),
+        }),
       });
-      if (!res.ok) {
-        const text = await res.text();
-        throw new Error(text || `Request failed (${res.status})`);
+      const result = await res.json();
+      if (!result.success) {
+        throw new Error(result.message || "Failed to send lead");
       }
-      // Flip submitting → false so Step 11's polling loop knows the
-      // server has responded. It still holds on the cinematic floor
-      // (2.6s minimum) before swapping to the Success phase.
-      // `markSubmitted` is fired by Step 11 itself once both the
-      // server response and that animation floor have landed.
       markSubmitting(false);
-    } catch (err) {
+    } catch {
       markSubmitting(false);
-      setSubmitError(
-        err instanceof Error ? err.message : "Something quiet broke."
-      );
-      // Jump back to review so the user sees the error inline
+      // Jump back to review so the user can retry
       jumpTo(STEPS.indexOf("review"));
     }
   };
@@ -139,16 +135,6 @@ export function Step10Review() {
           span="full"
         />
       </motion.div>
-
-      {submitError && (
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          className="mt-10 text-xs uppercase tracking-[0.28em] text-[#c97f3b]"
-        >
-          {submitError}
-        </motion.p>
-      )}
 
       <div className="mt-14">
         <StepNav nextLabel="Submit vision" onNext={handleSubmit} />

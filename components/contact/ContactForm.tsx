@@ -20,15 +20,9 @@ const FIELDS: Field[] = [
 
 type Status = "idle" | "submitting" | "success" | "error";
 
-/**
- * Phase 2 implementation — POSTs to a stub `/api/contact` route that
- * validates the shape and returns success. Phase 3 wires this into Resend
- * + a Supabase row. Inputs use floating labels and gold focus glows.
- */
 export function ContactForm() {
   const [values, setValues] = useState<Record<string, string>>({});
   const [status, setStatus] = useState<Status>("idle");
-  const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
   const set = (k: string, v: string) =>
     setValues((prev) => ({ ...prev, [k]: v }));
@@ -36,21 +30,26 @@ export function ContactForm() {
   const onSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setStatus("submitting");
-    setErrorMsg(null);
     try {
-      const res = await fetch("/api/contact", {
+      const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(values),
+        body: JSON.stringify({
+          access_key: "a15f8cb2-bd48-4219-a1fc-4609b7295a76",
+          name: values.name,
+          email: values.email,
+          phone: values.phone || undefined,
+          subject: values.subject || "New KAD Contact Form",
+          message: values.message,
+        }),
       });
-      if (!res.ok) {
-        const j = await res.json().catch(() => ({}));
-        throw new Error(j.error || `Request failed (${res.status})`);
+      const result = await res.json();
+      if (!result.success) {
+        throw new Error(result.message || "Failed to send message");
       }
       setStatus("success");
-    } catch (err) {
+    } catch {
       setStatus("error");
-      setErrorMsg(err instanceof Error ? err.message : "Unknown error");
     }
   };
 
@@ -113,9 +112,6 @@ export function ContactForm() {
         </button>
       </div>
 
-      {status === "error" && errorMsg && (
-        <p className="mt-6 text-sm text-[var(--gold-soft)]">{errorMsg}</p>
-      )}
     </form>
   );
 }
