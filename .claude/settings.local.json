@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:Path = [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"Path\",\"User\"\\); node --version; npm --version; where.exe node; where.exe npm)",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\")",
+      "Bash(npm --version)",
+      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --app --eslint --import-alias \"@/*\" --no-src-dir --use-npm --turbopack --yes)",
+      "Bash(npx --yes create-next-app@latest _scaffold --typescript --tailwind --app --eslint --import-alias \"@/*\" --no-src-dir --use-npm --turbopack --yes)",
+      "Bash(npx --yes create-next-app@latest kad-app --typescript --tailwind --app --eslint --import-alias \"@/*\" --no-src-dir --use-npm --turbopack --yes)",
+      "Bash(shopt -s dotglob)",
+      "Bash(mv -- * ..)",
+      "Bash(rmdir kad-app *)",
+      "Read(//f/f/Website/**)",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npx next *)",
+      "Bash(curl -s -o /dev/null -w \"Home: %{http_code}  size=%{size_download}\\\\n\" http://localhost:3737/)",
+      "Bash(curl -s -o /dev/null -w \"Projects: %{http_code}\\\\n\" http://localhost:3737/projects)",
+      "Bash(curl -s -o /dev/null -w \"Portal: %{http_code}\\\\n\" http://localhost:3737/portal)",
+      "Bash(curl -s -o /dev/null -w \"Contact: %{http_code}\\\\n\" http://localhost:3737/contact)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w '__TRACKED_VAR__ -> %{http_code} \\(%{size_download} bytes, %{time_total}s\\)\\\\n' http://localhost:3737__TRACKED_VAR__)",
+      "Bash(curl -s -X POST -H 'Content-Type: application/json' -d '{\"name\":\"Test\",\"email\":\"test@example.com\",\"message\":\"Hello world\"}' http://localhost:3737/api/contact)",
+      "Bash(curl -s -o /dev/null -w \"CDN image: %{http_code}\\\\n\" \"http://localhost:3737/cdn/projects/galleria-moon/hero-1280.webp\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3737/\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3737/projects\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3737/projects/galleria-moon\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3737/cdn/projects/galleria-moon/hero-480.webp\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3737/_next/image?url=%2Fcdn%2Fprojects%2Fgalleria-moon%2Fhero-480.webp&w=1280&q=75\")",
+      "Bash(node -e \"const p=require\\('F:/Website/package.json'\\);console.log\\('zustand:',p.dependencies?.zustand||p.devDependencies?.zustand\\);console.log\\('framer:',p.dependencies?.['framer-motion']\\);console.log\\('node v', process.version\\);\")"
+    ]
+  }
+}

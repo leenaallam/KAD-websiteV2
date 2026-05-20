@@ -1,26 +1,240 @@
 @import "tailwindcss";
 
+/* =========================================================================
+ * KAD — luxury dark + gold design tokens
+ * Anchored on the logo's brushed gold (~#C9A33B).
+ * ========================================================================= */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --ink: #050505;
+  --obsidian: #0b0b0d;
+  --coal: #161618;
+  --smoke: #22221f;
+
+  --bone: #eae3d2;
+  --mist: #8a8579;
+  --whisper: #56524a;
+
+  --gold: #c9a33b;
+  --gold-soft: #d8b868;
+  --gold-deep: #8a6f22;
+  --gold-glow: rgba(201, 163, 59, 0.28);
+
+  --ring: rgba(201, 163, 59, 0.6);
+  --grain-opacity: 0.045;
+
+  --vignette:
+    radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.78) 100%);
+
+  --ease-luxe: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-cinema: cubic-bezier(0.65, 0.05, 0.36, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --header-h: 80px;
 }
 
+/* Tailwind 4 — expose tokens as utility-aware theme variables */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-obsidian: var(--obsidian);
+  --color-coal: var(--coal);
+  --color-smoke: var(--smoke);
+  --color-bone: var(--bone);
+  --color-mist: var(--mist);
+  --color-whisper: var(--whisper);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-gold-deep: var(--gold-deep);
+
+  --color-background: var(--ink);
+  --color-foreground: var(--bone);
+
+  --font-display: var(--font-fraunces);
+  --font-sans: var(--font-inter);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* =========================================================================
+ * Base layer — luxury defaults, dark canvas, refined typography rhythm
+ * ========================================================================= */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  background-color: var(--ink);
+  color: var(--bone);
+  color-scheme: dark;
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  font-feature-settings: "ss01", "ss02", "cv11";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--ink);
+  color: var(--bone);
+  min-height: 100dvh;
+  overflow-x: hidden;
+  cursor: none;
+}
+
+@media (max-width: 768px), (pointer: coarse) {
+  body {
+    cursor: auto;
+  }
+}
+
+::selection {
+  background-color: var(--gold);
+  color: var(--ink);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* =========================================================================
+ * Lenis — required body styles for momentum scroll
+ * ========================================================================= */
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+/* =========================================================================
+ * Reusable luxury utilities
+ * ========================================================================= */
+
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+  .text-pretty { text-wrap: pretty; }
+
+  .eyebrow {
+    font-family: var(--font-inter), sans-serif;
+    font-size: 0.6875rem;
+    font-weight: 500;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  .hairline {
+    background: linear-gradient(
+      to right,
+      transparent,
+      rgba(201, 163, 59, 0.5) 50%,
+      transparent
+    );
+    height: 1px;
+  }
+
+  .glass {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.04),
+      rgba(255, 255, 255, 0.015)
+    );
+    border: 1px solid rgba(234, 227, 210, 0.08);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+  }
+
+  .glow-gold {
+    box-shadow:
+      0 0 0 1px rgba(201, 163, 59, 0.35),
+      0 12px 40px -12px rgba(201, 163, 59, 0.45);
+  }
+
+  .vignette-overlay {
+    background: var(--vignette);
+    pointer-events: none;
+  }
+
+  .reveal-clip {
+    clip-path: inset(0 0 100% 0);
+    transition: clip-path 1.2s var(--ease-luxe);
+  }
+  .reveal-clip.is-in {
+    clip-path: inset(0 0 0 0);
+  }
+
+  /**
+   * Gold text glow — luxurious slow-breathing illumination.
+   * Mirrors the kadPulse dot effect but via text-shadow so the letterforms
+   * stay perfectly sharp. Three shadow layers: tight bloom, mid bloom, and a
+   * very wide whisper-halo that barely registers but reads subconsciously.
+   */
+  .gold-glow-text {
+    animation: kadGoldGlow 3.6s ease-in-out infinite;
+  }
+}
+
+/* =========================================================================
+ * Gold glow keyframe — shared by .gold-glow-text and kadPulse dot
+ * Three layers of text-shadow create a natural bloom: a tight 8px core,
+ * a mid 28px spread, and a wide 56px whisper that barely reads in isolation
+ * but gives the letters a lit-from-within quality at the animation peak.
+ * ========================================================================= */
+
+@keyframes kadGoldGlow {
+  0%, 100% {
+    text-shadow:
+      0 0 6px  rgba(201, 163, 59, 0.35),
+      0 0 18px rgba(201, 163, 59, 0.18),
+      0 0 40px rgba(201, 163, 59, 0.07);
+  }
+  50% {
+    text-shadow:
+      0 0 10px rgba(201, 163, 59, 0.65),
+      0 0 28px rgba(201, 163, 59, 0.38),
+      0 0 56px rgba(201, 163, 59, 0.14);
+  }
+}
+
+/* =========================================================================
+ * Reduced-motion: disarm the heavy choreography, keep the brand intact
+ * ========================================================================= */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  body {
+    cursor: auto;
+  }
+  /* Kill gold glow cleanly — leave static text-shadow at the dim resting value */
+  .gold-glow-text {
+    animation: none;
+    text-shadow:
+      0 0 6px  rgba(201, 163, 59, 0.3),
+      0 0 18px rgba(201, 163, 59, 0.14);
+  }
 }

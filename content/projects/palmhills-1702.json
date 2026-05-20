@@ -1,0 +1,242 @@
+{
+  "slug": "palmhills-1702",
+  "title": "Palm Hills · 1702",
+  "discipline": "Residential · Villa",
+  "location": "Palm Hills, 6th of October",
+  "year": "2024",
+  "order": 3,
+  "blurb": "A modern Mediterranean reading of the standard plan — long thresholds, low partitions, the garden allowed to read into the interior.",
+  "images": [
+    {
+      "id": "hero",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "CAM-01_LX.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/hero-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/hero-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/hero-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZQCw7CHfwk8XjTG+gCJOwAD+2cTOaxgKWc/+b2h6GvlpvB1+C8Y5Vy+xpbE/LoGcPrYeiQAAAA=="
+    },
+    {
+      "id": "img-001",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "Cover_PALMHILLS-1702_CAM-01_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-001-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-001-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-001-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASoYAA4APxFysVCsJqSisAgBgCIJZQCsAB4ZsJgHH9P9En2P7gAA/gclHojeCKWhnLrLxYo824GrDVPrQ11RtF51MgI9IjMgxgZAAA=="
+    },
+    {
+      "id": "img-002",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-02_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-002-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-002-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-002-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdMoADD/Y7JoTuHzsAAP7MLLFJLMlathKY/DZgNg2mb5cIufAtIdpkdVYW6gaIR972Om7QfxLwAAA="
+    },
+    {
+      "id": "img-003",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-03_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-003-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-003-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-003-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZwDA3CHhHzQn+o8ppu/3AAD+2wYIrE3XJwDByQGsBX4Ng2gyo3+tzFc+1+wIvwUQAAAA"
+    },
+    {
+      "id": "img-004",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-04_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-004-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-004-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-004-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF2sVAsJ6SisAgBgCIJZwAARau0jWyndDHn499RAAD7qntIl7lJoEvEMLzeWdDUZ6DPHZEHMk3ofK6AaR88DCZv395QAAAA"
+    },
+    {
+      "id": "img-005",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-05_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-005-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-005-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-005-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZAC7AGjSbu+87dQfu6eAAP78rAxUdYr5c+OQKDNSr9o/IXv6DBgYF53R65daAWSC54yDw9r5m/jLEmFe56zK7t/gNDsBLqAATkAA"
+    },
+    {
+      "id": "img-006",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-06_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-006-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-006-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-006-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFOv1osIqgkmAGAIglnAMM0G6L39ucyuUZxA6gA/sy225T2ZXkrWW9feST4S3Qbb3abcsBQ9fvMQR7Oq+NPe3xwARRbnExTqbQAAA=="
+    },
+    {
+      "id": "img-007",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-07_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-007-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-007-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-007-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZwC3uCLqdJJrERxn3wK0APZOzDseHT9CnIKveorJNKRtDnf9FPARw6YlUnyoyO6I2vghAAAAAA=="
+    },
+    {
+      "id": "img-008",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-09_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-008-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-008-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-008-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJZwC+SBjsMp05lpN+tWQAAP28YY9ThnZ8eNz8eBi8YFBCelmBty/LeNiOCbjVd7ilPqI5pLiAIL5kA0lar/hrMmpgJQAA"
+    },
+    {
+      "id": "img-009",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-11_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-009-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-009-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-009-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF4tFGsJyUisAgBgCIJZQCzgBbLM0NqtANmggYAAP2yJgbSGAshUommGWqhHE0En80e1cZ2hEjrlc8jx/EpVsoAAAA="
+    },
+    {
+      "id": "img-010",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "PALMHILLS-1702_CAM-12_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/palmhills-1702/img-010-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-1702/img-010-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-1702/img-010-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwC/OBuyFvCJOpwZAAD+1LQM7nyHBSRe9gWYao7nNve9Mp4l1J4f/2UVM9C2AAA="
+    }
+  ]
+}

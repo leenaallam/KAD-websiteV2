@@ -1,0 +1,141 @@
+{
+  "slug": "villa-hamdy",
+  "title": "PalmHills",
+  "discipline": "Residential · Villa",
+  "location": "Cairo, Egypt",
+  "year": "2023",
+  "order": 11,
+  "blurb": "A family villa held in two materials and one decision — to let every room face the same garden.",
+  "images": [
+    {
+      "id": "hero",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "1.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/hero-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBQCdASoYAB4APxF6t1MsJ6WiqAqpgCIJZQC9WA9mS9tYYd4arjNGVCYtxtQ7MQDFI5AAAPre699XyLjUAF7uJuexz1qYDZQ+jQn1nSAoI5Nkeg2kQWyrYeHthkTisqNFC0ymkdapoZUy5Zyo66qCKnAAAA=="
+    },
+    {
+      "id": "img-001",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "2.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-001-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBQCdASoYAB4APwl0sVArp6UisBgMAXAhCWMAxnwxUha3yv7WhJwfGgwb8QQFek8LJ+AA/tM+CXsm9V/AQwuXI0KqlVy8vyNEpHq7njMLkKYYO8Ob41MXJ4kAkoLvpUPi8OReD8fHfoPo6rW6VZCRR33i/JGi1OAAAA=="
+    },
+    {
+      "id": "img-002",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "3.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-002-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASoYAB4APxF6tFMsJ6UisBgIAYAiCWcAz2Q0bjencjphN+QpIOu4+QhuDQAA/u9gPIvkES2uvicM1YvWX610aa6Q1KCfWdz76W2HxGWRis+WlDP7/Am20BZQLJEWaIjgHIHeRHeTnmwAAA=="
+    },
+    {
+      "id": "img-003",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "4.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-003-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBQCdASoYAB4APxF4tFGsJyUisAgBgCIJaQAAUpM3lDXo2xkXgbqqmhR4MknWq6JRQAD+2nWwxToVGy4B1kBCm1l7gBzs3UD5Z/6nIFIZSs2Wrs4TWujzEmcSlqCCYyUX5hVPudOEVqmsg0fGDx2rgbHgAA=="
+    },
+    {
+      "id": "img-004",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM01_VILLA-HAMDY_03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-004-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPxGAtFSsKCSjKAqpgCIJZwDBkBEcnFTfDWCAWnQndmYcGbH/awEAAPqa1aNIBZ23IsNyrPJxOvg+xtEBrV7mW6aJEA1Lan0jhBkTrLPs+Wct87yd7k60UQ0AAAA="
+    },
+    {
+      "id": "img-005",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM02_VILLA-HAMDY_06_vintage.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-005-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASoYABgAPxF6tFMsJ6UiqAqpgCIJZwDA3BEu+VEEpYtF+cCTiWDRasUhhNwAAP7Mqr2WtzcXAZ5RRf4yDei92VlHEvlOQEVhzSOqkitvd2RsTJh+EL0wRWilOKn2T/Vsxf3lrYAA"
+    },
+    {
+      "id": "img-006",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM03_VILLA-HAMDY_04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-006-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASoYABgAPxFwsFCsJiSisBgMAYAiCWcApxQPlRiKW0sZgaaxBdkrSrIgAPcnpWu6L9BhoyvLI90TPT6bwN2yDBTAE5gd4CYr3mUN/FXWP9rsuKKtKNgljyY+AgkHKkAA"
+    },
+    {
+      "id": "img-007",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM05_VILLA-HAMDY_01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-007-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPxF+slQsKCQjKAqpgCIJZwDCgBES+9+pp3TXueWLEH8TJHHk2uoAAPQ7lRwGtedhGCf3oHY2595X4e/PNMKmdz2WnGdkwhxb+Lo1/gJqTLfROsVfs0w+PkEAAAA="
+    },
+    {
+      "id": "img-008",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM06_VILLA-HAMDY_0.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-008-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPvViqlAqpaQit+gBUB6JZwDKADJFCm4ts+J5/9PgqPL5OgVBDHM+AAD+7o48gZMBnE/6LiZalSBDzkXB+DBHE4LwvQ246CeV2HpuiwjhnokRa+Y55mHQ2Heq1FxkPF9RHYgAAA=="
+    },
+    {
+      "id": "img-009",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "CAM08_VILLA-HAMDY_0.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/villa-hamdy/img-009-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQBACdASoYABgAPxF2sVGsJySiqA1RgCIJZwC5IA9iPgQtiY3UGfMmNI/r7g/0ZAD+u84vMEnQ+FB5XSC3vvuW6KzxX3g145vD2zZSPNP6XFuWEqj2OEwj/sbSLBybmegx9k8Ls+tmSWTmRDAStmdjpwO4IAAA"
+    }
+  ]
+}

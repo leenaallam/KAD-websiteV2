@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# KAD source assets (keep originals out of the repo and bundle)
+/_source/
+/_dist/
+# Generated CDN outputs — rebuildable via `npm run process:assets`
+# /public/cdn/
+
+# nested repo
+/Website_KAD/
+
+# os
+Thumbs.db
+desktop.ini
+

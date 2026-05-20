@@ -1,0 +1,179 @@
+{
+  "slug": "seashell-north-coast",
+  "title": "Seashell · North Coast",
+  "discipline": "Residential · Coastal home",
+  "location": "North Coast, Egypt",
+  "year": "2023",
+  "order": 7,
+  "blurb": "Salt, plaster, and travertine. The plan is opened to the sea and then quieted with shaded interior rooms.",
+  "images": [
+    {
+      "id": "hero",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "COVER_SEASHELL_CAM-04X_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/hero-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/hero-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/hero-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APxF2slEsJySisAgBgCIJYwCsABunwfQKWXppbOHeAAD+ubInswD8VKjRh3WAc/RoC/AbLD1tnwZCEuM12C3NJ7a2XgAAAA=="
+    },
+    {
+      "id": "img-001",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-01X_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-001-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-001-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-001-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APxGCtFIsKaUisAgBgCIJZQCdACBW+9/7GiOELcsqAAD+cWTDJF9OYhBzGSBFHNH84I+QfgyuKoPeBX0Icix3VuySs9cAAA=="
+    },
+    {
+      "id": "img-002",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-02X_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-002-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-002-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-002-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZQCdABoma50STTbXcP9dwAD+2U2UCmIBCg6wPhCpgwqZjT4BXD/cqsSLEIWaVCzlWfkBUO4PU4vWAAA="
+    },
+    {
+      "id": "img-003",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-03X_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-003-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-003-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-003-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwCdABeiWImok4PyKjgA+cyggGo50pwRLzhsMcn3cO+6Ajy8URjWeTz+6Cr+37l+Q5Z95WVNPQAA"
+    },
+    {
+      "id": "img-004",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-05X_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-004-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-004-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-004-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwCo9BAvXbvrqkLlAADezx37fE/ZjrT50GUKYQPfO+JMeDKdpU72qVHcqK/46wAAAA=="
+    },
+    {
+      "id": "img-005",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-06_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-005-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-005-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-005-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoYAA4APxF2slEsJySisAgBgCIJZQC7ACDR/0HocE0M+QAA/p1+Ek6mVP3jf9mt7NWBkL40ZVt90FyqNBRI8MRgkfyODy9nOSkuwAAA"
+    },
+    {
+      "id": "img-006",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-09_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-006-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-006-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-006-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA4APxFwsFAsJiSisAgBgCIJYwCw7BiwwF/5eqCgQP3D8AD52s+EuokqgzVNh/90jX4rbsuMyggL/uar9vO4kp1BWSzz2riouSU+cAA="
+    },
+    {
+      "id": "img-007",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "SEASHELL_CAM-10_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/seashell-north-coast/img-007-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/seashell-north-coast/img-007-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/seashell-north-coast/img-007-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJYwC7ABjLmnAI1woFWIuAAP2KmyP8ChTCQdDdrQUKWHEpABdodMxtzz9EniJUrnvjBCT7q6oZqQAA"
+    }
+  ]
+}

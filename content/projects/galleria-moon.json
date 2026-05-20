@@ -1,0 +1,163 @@
+{
+  "slug": "galleria-moon",
+  "title": "Galleria Moon",
+  "discipline": "Residential · Apartment",
+  "location": "Cairo, Egypt",
+  "year": "2024",
+  "order": 1,
+  "blurb": "A pied-à-terre composed in chalk, walnut, and brushed brass — daylight is treated as the principal material.",
+  "images": [
+    {
+      "id": "hero",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "BEDROOM_CAM-01_GALLERIA-MOON_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/hero-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQBACdASoYABgAPw1ssFAsJaSit/VYAYAhiWUAuwAMTKkPtRY0HCUYr3zQCmCIAAD+0IpehjsmKbvvz4E7TW0IclG2TPeJDRSCiiXhGSgvbA5m21tJ6TBHldC2Jjbrr+O4M6pDUbJ5qBq7AmMMrrwYWe2UyNZ4LYcQ3sgH5JsGQAAA"
+    },
+    {
+      "id": "img-001",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "BEDROOM_CAM-02_GALLERIA-MOON_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-001-480.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBQCdASoYABgAPxFwtFAsJiUisBgMAYAiCUAXYO9YHefrQ91McWXjeriKxlszOZmsmkAA/ugRdU+aRsFGqEH0ADowQ3paop6hmE56+m4PS14IZgvfJmPjapeeo2aFJF1lVT6wvfSU9cy07D3IfGh0uc2yB6l2ogC0DDUFhbJggAAA"
+    },
+    {
+      "id": "img-002",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "CAM-06_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-002-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-002-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-002-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASoYABgAPxGEuVYsKKWjqAgBgCIJQBfnAhFOqDJ/S6EC2xXdHEHq6AAA/uLzmMW4052SYGvxMYBOku5lb2q2Hlollrui8XlkoyJbwqz2CgUw3nxFsPWWN+fcAAA="
+    },
+    {
+      "id": "img-003",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "GALLERIA-MOON_CAM-01_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-003-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-003-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-003-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASoYABgAPxF4tlMsJyUiqAqpgCIJZQDCgBVvaL8tRdwxSQ0fEmhyRNQA/ukP0d8rXlN3CGuJEsyZW/qQF9YKLsaiVRQQvjk2NvWb2dHR4+UCaFTxOep0ZdZf3No6AAAA"
+    },
+    {
+      "id": "img-004",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "GALLERIA-MOON_CAM-02_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-004-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-004-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-004-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQBACdASoYABgAPxF0slEsJqSiqA1RgCIJZQC/OA19QhbN6/1qoab49Ky/lkAA55p8iY9Z5Kf03HVxjWjcomfdwtiMzGiibZqn8ccsXWr0QDK0ofuQVHfGxgA="
+    },
+    {
+      "id": "img-005",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "GALLERIA-MOON_CAM-03_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-005-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-005-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-005-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF8s1OsJ6QiqAqpgCIJZQCuHBI9SypXnxFQ8By8TaDRUdZrcEFD0AD+haas365+hAKvrRcIWoGYE/4odSvF49R1/SoZy2oK0IwXPl/GHxieqa18NEESRzMlFdO11HnvyAA="
+    },
+    {
+      "id": "img-006",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "GALLERIA-MOON_CAM-04_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-006-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-006-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-006-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASoYABgAPwVwrFArpqQit/VYAXAgiWUAsR9CwVSamZIO89VoGll2/FVo+NQAAPcX4WePTLLxwHJnck9GwdVnvZ39Zox5nsmUR3QTQqCe6igHuepkHzMOBZg3NUAAAA=="
+    },
+    {
+      "id": "img-007",
+      "originalWidth": 2000,
+      "originalHeight": 2000,
+      "originalName": "GALLERIA-MOON_CAM-05_L.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/galleria-moon/img-007-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/galleria-moon/img-007-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/galleria-moon/img-007-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYABgAPxF0sVCwpqSisAgCECIJZQC7ACzcH99YTBHVKUAA/utL+hGm0nY/BrJOLpQiuQQeX6uF8kqzVrxVc+pIlxpE+dablib11zIAAAA="
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "uptown-cairo",
+  "title": "Uptown Cairo",
+  "discipline": "Residential · Apartment",
+  "location": "Uptown Cairo",
+  "year": "2024",
+  "order": 9,
+  "blurb": "Hill-top views answered with a low, dark-toned palette — the room recedes so the city stays the subject.",
+  "images": [
+    {
+      "id": "hero",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "030525_KITCHEN_CAM0000.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/hero-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/hero-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/hero-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYABgAPxGAslQsKCQjKAqpgCIJZQC7AAzvY/aZLmqsU5qxYDhwnG2Ou3ZQjOAA90HID1gXX5G8AsOhFws4DYKttz2kDrm3/4vSmisiXaQLBHSgDqkDIdurLqjPNqsdISxl6CKbgzdJvcAA"
+    },
+    {
+      "id": "img-001",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "030525_KITCHEN_CAM002.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-001-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-001-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-001-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASoYABgAPxF8tFSsJ6SjKAqpgCIJZQC/7A2gtRb/lEGbKqarOkMiDPMTAAD+g0Kwh9glUSwFXPoVz6QPu8l+9W5BbaqE3deao3TZ0d79fjPOFI2CY8m7kVcYAlVz6D60ZHNSwQAA"
+    },
+    {
+      "id": "img-002",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "190425_REHABCITY_RECEPTION_CAM0000.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-002-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-002-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-002-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASoYABgAPxFytFKsJiUisBgIAYAiCWcAACGltB2b/5t8C6GTR0q8TkxQAIAA8+9Nu75PKUMXRLTWeaGG1n2SXU7IVzRB2WG3sVLO3QT7s3Zz16naa702beSFztBvIAAA"
+    },
+    {
+      "id": "img-003",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "190425_REHABCITY_RECEPTION_CAM0004.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-003-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-003-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-003-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwBACdASoYABgAPxF6sVEsKCSisAgBgCIJaQDNhBZT6sEZssZe8Tl8jp6nr/u4q4AA/XLmNLjauM8XfrGzTxH5cau+oHRY46r1JMxxCUB1TJpyQNzxOoaLHZPqYUAA"
+    },
+    {
+      "id": "img-004",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "190425_REHABCITY_RECEPTION_CAM0005.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-004-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-004-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-004-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASoYABgAPxF+tFOsKCSiqAqpgCIJZwDPoA3jBWkRxey9MXAWK07N0mBS9DwAAP7AdkbI3mPrb4fgm5rA2d3QtSmqfn6K9DHFhHltk9BBsNsc768r1AriDHuiTEH25AZMKKo0cCoQY0AAAA=="
+    },
+    {
+      "id": "img-005",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "190425_REHABCITY_RECEPTION_CAM001.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-005-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-005-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-005-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASoYABgAPxF6t1MsJ6WiqAqpgCIJZwDJTAvpbSxkeUAMxh5ceO4A9Xo6AAD+y/PtBmxxOmsIR0VKox0BY6dd7Xex2otGZ17ri5Jh4z6Bikgd7nP0uZ5Ao1eM5+CUUfeAAAA="
+    },
+    {
+      "id": "img-006",
+      "originalWidth": 1920,
+      "originalHeight": 1920,
+      "originalName": "190425_REHABCITY_RECEPTION_CAM003.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "projects/uptown-cairo/img-006-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/uptown-cairo/img-006-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/uptown-cairo/img-006-1920.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASoYABgAPxF6slMsJ6SiqA1RgCIJZwDG9AxWZM8tYsulERfkmYjR9E8TAAD1abE/XHOLSrNqOYi77dcJgVeTE/5hLrKAEiR/UfcRnZBVDoFdj0Egj5iJdgUejvQkFRPqfQFwpO2PAAA="
+    }
+  ]
+}
