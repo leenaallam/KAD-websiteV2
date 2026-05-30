@@ -51,7 +51,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Apartment",
     location: "Cairo, Egypt",
     year: "2024",
-    order: 1,
+    order: 8,
     blurb:
       "A pied-à-terre composed in chalk, walnut, and brushed brass — daylight is treated as the principal material.",
   },
@@ -61,17 +61,17 @@ const PROJECT_META: Record<
     discipline: "Residential · Two units",
     location: "Madinaty, Egypt",
     year: "2024",
-    order: 2,
+    order: 10,
     blurb:
       "Two units, one architectural family. Restraint is held throughout while material temperature shifts between the public and private rooms.",
   },
   "Palmhills Village gate": {
     slug: "palmhills-1702",
-    title: "Palm Hills · 1702",
+    title: "The Village",
     discipline: "Residential · Villa",
     location: "Palm Hills, 6th of October",
     year: "2024",
-    order: 3,
+    order: 7,
     blurb:
       "A modern Mediterranean reading of the standard plan — long thresholds, low partitions, the garden allowed to read into the interior.",
   },
@@ -91,7 +91,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Apartment",
     location: "Rehab City, Cairo",
     year: "2023",
-    order: 5,
+    order: 6,
     blurb:
       "A compact reception reorganised around a single material gesture in micro-cement and oak.",
   },
@@ -101,7 +101,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Villa",
     location: "Riyadh, KSA",
     year: "In progress",
-    order: 6,
+    order: 5,
     blurb:
       "A house held together by stone and a single, slow palette of bone, ash, and gold — light is shaped before it is filtered.",
   },
@@ -111,7 +111,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Coastal home",
     location: "North Coast, Egypt",
     year: "2023",
-    order: 7,
+    order: 11,
     blurb:
       "Salt, plaster, and travertine. The plan is opened to the sea and then quieted with shaded interior rooms.",
   },
@@ -121,7 +121,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Townhouse",
     location: "Sodic West, Egypt",
     year: "2023",
-    order: 8,
+    order: 1,
     blurb:
       "A townhouse drawn against the standard finish — micro-cement, brass, and a single oak stair as the spine.",
   },
@@ -131,7 +131,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Apartment",
     location: "Uptown Cairo",
     year: "2024",
-    order: 9,
+    order: 3,
     blurb:
       "Hill-top views answered with a low, dark-toned palette — the room recedes so the city stays the subject.",
   },
@@ -141,7 +141,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Villa",
     location: "New Cairo, Egypt",
     year: "2024",
-    order: 10,
+    order: 9,
     blurb:
       "The complete arc — reception, bedrooms, kitchen, bathrooms, balconies — drawn as one continuous architectural gesture.",
   },
@@ -155,7 +155,7 @@ const PROJECT_META: Record<
     discipline: "Residential · Villa",
     location: "Cairo, Egypt",
     year: "2023",
-    order: 11,
+    order: 2,
     blurb:
       "A family villa held in two materials and one decision — to let every room face the same garden.",
   },
