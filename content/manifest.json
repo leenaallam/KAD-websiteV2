@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T22:49:23.198Z",
+  "generatedAt": "2026-05-30T22:52:01.406Z",
   "projects": {
     "galleria-moon": {
       "slug": "galleria-moon",
@@ -2335,5 +2335,53 @@
         }
       ]
     }
-  }
+  },
+  "hero": [
+    {
+      "id": "about",
+      "originalWidth": 4160,
+      "originalHeight": 1500,
+      "originalName": "about.jpeg",
+      "variants": [
+        {
+          "width": 768,
+          "path": "hero/about-768.webp"
+        },
+        {
+          "width": 1280,
+          "path": "hero/about-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "hero/about-1920.webp"
+        },
+        {
+          "width": 2560,
+          "path": "hero/about-2560.webp"
+        },
+        {
+          "width": 4160,
+          "path": "hero/about-4160.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAwCdASoYAAkALtGIxGIkLCwsDADQSygABi7pRV+gm2Zi9AAAylghHKj/d7267S7ZdwuG7gA="
+    },
+    {
+      "id": "intro",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "intro.png",
+      "variants": [
+        {
+          "width": 768,
+          "path": "hero/intro-768.webp"
+        },
+        {
+          "width": 1080,
+          "path": "hero/intro-1080.webp"
+        }
+      ],
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoYAB4APxFys1CsJqSiqA1RgCIJZwC7ACxwG+4EBZvFrP9IUeLIAKt+u+dtJ7C3lsSIbPnbv0RAekLEDIX8CSmyG0dx3FwZWeKTjfvO+DSJgzTW8Z4mUFEHEQw9xYNDtLZYAAAA"
+    }
+  ]
 }
