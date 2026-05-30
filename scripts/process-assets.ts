@@ -50,7 +50,7 @@ const PROJECT_META: Record<
     title: "Galleria Moon",
     discipline: "Residential · Apartment",
     location: "Cairo, Egypt",
-    year: "2024",
+    year: "2021",
     order: 8,
     blurb:
       "A pied-à-terre composed in chalk, walnut, and brushed brass — daylight is treated as the principal material.",
@@ -60,7 +60,7 @@ const PROJECT_META: Record<
     title: "Madinaty",
     discipline: "Residential · Two units",
     location: "Madinaty, Egypt",
-    year: "2024",
+    year: "2022",
     order: 10,
     blurb:
       "Two units, one architectural family. Restraint is held throughout while material temperature shifts between the public and private rooms.",
@@ -70,7 +70,7 @@ const PROJECT_META: Record<
     title: "The Village",
     discipline: "Residential · Villa",
     location: "Palm Hills, 6th of October",
-    year: "2024",
+    year: "2022",
     order: 7,
     blurb:
       "A modern Mediterranean reading of the standard plan — long thresholds, low partitions, the garden allowed to read into the interior.",
@@ -100,7 +100,7 @@ const PROJECT_META: Record<
     title: "Riyadh Villa",
     discipline: "Residential · Villa",
     location: "Riyadh, KSA",
-    year: "In progress",
+    year: "2021",
     order: 5,
     blurb:
       "A house held together by stone and a single, slow palette of bone, ash, and gold — light is shaped before it is filtered.",
@@ -110,7 +110,7 @@ const PROJECT_META: Record<
     title: "Seashell · North Coast",
     discipline: "Residential · Coastal home",
     location: "North Coast, Egypt",
-    year: "2023",
+    year: "2021",
     order: 11,
     blurb:
       "Salt, plaster, and travertine. The plan is opened to the sea and then quieted with shaded interior rooms.",
@@ -120,7 +120,7 @@ const PROJECT_META: Record<
     title: "Sodic",
     discipline: "Residential · Townhouse",
     location: "Sodic West, Egypt",
-    year: "2023",
+    year: "2026",
     order: 1,
     blurb:
       "A townhouse drawn against the standard finish — micro-cement, brass, and a single oak stair as the spine.",
@@ -130,7 +130,7 @@ const PROJECT_META: Record<
     title: "Uptown Cairo",
     discipline: "Residential · Apartment",
     location: "Uptown Cairo",
-    year: "2024",
+    year: "2025",
     order: 3,
     blurb:
       "Hill-top views answered with a low, dark-toned palette — the room recedes so the city stays the subject.",
@@ -140,7 +140,7 @@ const PROJECT_META: Record<
     title: "Upvill",
     discipline: "Residential · Villa",
     location: "New Cairo, Egypt",
-    year: "2024",
+    year: "2021",
     order: 9,
     blurb:
       "The complete arc — reception, bedrooms, kitchen, bathrooms, balconies — drawn as one continuous architectural gesture.",
@@ -154,7 +154,7 @@ const PROJECT_META: Record<
     title: "PalmHills",
     discipline: "Residential · Villa",
     location: "Cairo, Egypt",
-    year: "2023",
+    year: "2025",
     order: 2,
     blurb:
       "A family villa held in two materials and one decision — to let every room face the same garden.",
