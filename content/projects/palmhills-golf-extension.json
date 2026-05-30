@@ -11,308 +11,269 @@
       "id": "hero",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-03_L.jpg",
+      "originalName": "1.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/hero-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASoYAB4APxF0r1AsJyQisAgBgCIJZQC7ABtlcU7kRlIPrqaQ+vkX5FmAtpAAAPt/qZtWiHsMfffhl31gPr7PF2MJv2EkbgpbJMTZMbDqVmglXPuD14EI5UMF+nYqN/OFfdOmnVw5bNWmROQMrqaAAA=="
+      "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBQCdASoYAB4APxF+slQsKCQjKAqpgCIJZwDN/DL9y3hlYj3iFlBJNr2ovls4TAELoAD+79eK2yt9vdc7hHtOJaEutYLzIgliQee8T5xxEZVnXLpt1QOepVs4nx0a6cj/3al4p1zCEgQMQOjn1DNrLapUiOfbaFFQu7ODeDgAAA=="
     },
     {
       "id": "img-001",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-05_L.jpg",
+      "originalName": "10.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-001-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYAB4APxF6s1OsJyQiqAqpgCIJYwC84DTmE1BC0vbBEZ8/19NwcCx3sRjG4cAA/mZfbDrbFvgzvRXP13KkBEqDQNjKSjqkjqMEIEa62alk7pnPs8om1o5/8pA+QUk4B15hNrI6QE+YAAAA"
+      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBQCdASoYAB4APxFws1CsJiSisBgMAYAiCUAXYAaJQ26lPtBhb0C6rcifEjtaGwqFgAD9+dHHOCxXkWh09VySM5uBIwuvLUI/wlTqh0GuLgLXzmDZyOwcZeAHrdbmEBOz3IbuOHFDS2n1nz9G/1LAX0M4Gp4Y6u0DNgAA"
     },
     {
       "id": "img-002",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-07-01_L.jpg",
+      "originalName": "11.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-002-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYAB4APxF+t1UsJ6UjKAgBgCIJYwCdAAyWMvNyN/u53QakrkoGAXtRuMmvq2kAAP32kWxDaJMerB1uQi8WlTOh+wQUehlcwIrpD9azFDgSJSxtKXDS9+NBvYdrPMmtbEfoBar/Jt9IN5LJpjAy5rmVqgqsCoocmdATJAyvc0XMAA=="
+      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYAB4APxF0slMsJiSisBgIAYAiCUAYG4ZYOQiXxg7SQUlHleWvDU9DLxc0sAAA+B/NLS9HsH9/dk9xxoFYbqbFWcXp5xgXDrjcImGc/tjK4+TqCZ/5B1CcVx8Z6G1hbA/+ax/lgPTUG47ZSSMUS6PUAAA="
     },
     {
       "id": "img-003",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-08_01_L.jpg",
+      "originalName": "12.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-003-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBQCdASoYAB4APxF8tFKsKCUisBgIAYAiCWUAxNgRfNbgKjdsdY7Vf1VdCCYdXo5cU7QAAP7AUzx8uBL79654h3P7J2UiBTJBGnyhHwqD6CfAwThRx/qx5Xam3+ac71euIK31i6U+VqcQZsoMAAAA"
+      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBQCdASoYAB4APxF6tFMsJ6UiqA1RgCIJYwC4MBF+LD6PWctkQoe5yzw9aynfILaAAP7DPFFIpHkDMCufM0Yxm2DkIQr3p4H2c2xazQY+iHHohy3OYK4mYlVt7yrZT4MX4ZV9tvy/LSTInlKV9G0MLm18FwocAAA="
     },
     {
       "id": "img-004",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-10_L.jpg",
+      "originalName": "13.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-004-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBQCdASoYAB4APxF6t1MsJ6WiqAqpgCIJYwC+SBEJj4X9gzp/Gx/E9rwH6jC5jErGAAAA/pskuRTe/GZbwC+TrTVAiVYdqGWrNhFSTQxEwV/ygAFjjHINaDoLBV9w65oCkkUq9o3dHBwJPD+JXDyCDUbegAAA"
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoYAB4APvluqVAqpyQit/qoAVAfCUAW2QQPpX2L1vj7+WOylx+RClEeOjhDgAD+1DSqs2oOg7qXBNyHFRfxVvrRLUHRXEj37RpfXE6hxZW8gWPUUHhSDX54NgHHl3jh4ULn2QogAMh5+4UJXHqGwAAA"
     },
     {
       "id": "img-005",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-12_L.jpg",
+      "originalName": "14.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-005-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYAB4APxF8tlQsJ6UjKAqpgCIJYgC/ay/BxGacLK0K/IsOK4eCVOw+vHa8/esHgAD4XF/7S3GikKnF55JZz13GjBjXS91amFpzykKxt1J6CETEiBSs6uFu4YL/VJTSf5SK2dXI5l1k7d2UnMjLguYgesU3a+jkY0f+aZRsKwAAAA=="
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoYAB4APxF8slQsJ6QjKAqpgCIJQBhmhpu7hkYs89a0+kMePD2+QdkgAP7f5VTlTeEEWZ/hsEUUsc8CP1p0LAJ4QuS8F99piVxpTRmNLhmjslJbqvNFe6s+zR+XBsOZVTu7R6GR+cVSoO2qoUAAAA=="
     },
     {
       "id": "img-006",
       "originalWidth": 1080,
-      "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-13_L.jpg",
+      "originalHeight": 1080,
+      "originalName": "15.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-006-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBQCdASoYAB4APxFwslMsJaSisBgIAYAiCWcAAIIi1A99S6pTGHyJmFTNvmzXvBzYoAD+4IKMU6qeTgQK7E9fpzwWBnrPxa8UJhs5rWEIUOq/Bymp4FmcAxVtEFOEKSkJkXB3Mjnv2n625ZJDHJLoRkezbqHDKZAAAA=="
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBQCdASoYABgAPxF0r1AsJyQisAgBgCIJZwDH5B50DN3ZfJd7nwd6eetm8l2naiygAP592yYMwje+CUqHSaYKBMHn/yOKQMMpnMainFI9iKgQs5xAW0hZNEAAAA=="
     },
     {
       "id": "img-007",
-      "originalWidth": 1080,
-      "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-15_L.jpg",
+      "originalWidth": 2160,
+      "originalHeight": 2160,
+      "originalName": "16.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-007-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/palmhills-golf-extension/img-007-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/palmhills-golf-extension/img-007-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYAB4APxFyrVAsJqQisAgBgCIJYwCw7BszZsnb3zcKYPG5hR3EKk6JdGjpgAD89FaZVENfC+vPFsRZOTZe2vkdjZbQ127g7ErYBZdqqKBDlUVKJVb73OZLeqC4N616wwbrykTltwwovNddIPKUntaA2PC2/8UogAA="
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASoYABgAPxF6slKsJ6SiqA1RgCIJZwDO7Af88/0YSlh3810y1F3KtIAA/tvJ7GMsEy0pRMR30eEj23EyIgN8VhLloj8L1aQV9YxaQrkJ260UsrC66beJ5IR+4zCiAz4AAAA="
     },
     {
       "id": "img-008",
       "originalWidth": 1080,
-      "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-16_L.jpg",
+      "originalHeight": 1080,
+      "originalName": "17.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-008-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYAB4APwVsrFArpiQisAwBcCCJYwC/7BhwHQzBnB9/YejmzQCO8b87r5hgAP7Vjf8S2DTsnKUj8+oEPWscNsYWeghS1501+8VT9p7h/KY++OZkoeoRMUxqPkX0eVK1VMiThwOIKi/6ADFNnG4F0AAA"
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABgAPwFwsFArJyUit/qoAWAgCWcAxvQhyCyZyFIasS2eERhmaqWAngAA/tjmSdhuYeJ5K1rlpbTQCgR7HMgX64n1OWlI3LOo1UHVQrSOtnjo/IBOtUY/SwI6ci8AAAA="
     },
     {
       "id": "img-009",
       "originalWidth": 1080,
-      "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-20_L.jpg",
+      "originalHeight": 1080,
+      "originalName": "18.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-009-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASoYAB4APxGAuFWsJ6UjKAgBgCIJZQDKAFX0C7ck3MVDOy5anGNWcTEAY75mdGgAAP7vw6ppBHyP44/SLdXyE7MECZE7E2+iG2Vd7AM7fIA7vk9c3Ab8zXdpASEPsvXcmi8ZIbveMdyqZWoeFiZbTYSUv0+ZTdgA"
+      "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYABgAPxF8tFSsJ6SjKAqpgCIJZwDKtAy8HD7WgYdwu5ah7t9oUVZc4oUngAD+gU0hrxVFq8L4b8DqCK2BCKkC5H/tN8KOLMg/mg9WGaKKrEDnfRaeWF4ySwD1Z6CdL+AAAA=="
     },
     {
       "id": "img-010",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-22_L.jpg",
+      "originalName": "2.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-010-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYAB4APwFkrFArJSQit/qoAWAgCWMAqSPUgVQxIi0pxm14wyDht74aJvT2nwotqQAA/sN1rrqnSntQQPdH0AYpSApd/AxipNs157QNIVexX5XLJ5G/2ikLXZTSmuCiXrYR0Z6kR0tkWNxTsQEisRzUYhLHpAAA"
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASoYAB4APxF0r1AsJyQisAgBgCIJZQC7ABtlcU7kRlIPrqaQ+vkX5FmAtpAAAPt/qZtWiHsMfffhl31gPr7PF2MJv2EkbgpbJMTZMbDqVmglXPuD14EI5UMF+nYqN/OFfdOmnVw5bNWmROQMrqaAAA=="
     },
     {
       "id": "img-011",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-23_L.jpg",
+      "originalName": "3.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-011-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBQCdASoYAB4APxFws1CsJiSisBgMAYAiCUAXYAaJQ26lPtBhb0C6rcifEjtaGwqFgAD9+dHHOCxXkWh09VySM5uBIwuvLUI/wlTqh0GuLgLXzmDZyOwcZeAHrdbmEBOz3IbuOHFDS2n1nz9G/1LAX0M4Gp4Y6u0DNgAA"
+      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYAB4APxF6s1OsJyQiqAqpgCIJYwC84DTmE1BC0vbBEZ8/19NwcCx3sRjG4cAA/mZfbDrbFvgzvRXP13KkBEqDQNjKSjqkjqMEIEa62alk7pnPs8om1o5/8pA+QUk4B15hNrI6QE+YAAAA"
     },
     {
       "id": "img-012",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-24_L.jpg",
+      "originalName": "4.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-012-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYAB4APxF0slMsJiSisBgIAYAiCUAYG4ZYOQiXxg7SQUlHleWvDU9DLxc0sAAA+B/NLS9HsH9/dk9xxoFYbqbFWcXp5xgXDrjcImGc/tjK4+TqCZ/5B1CcVx8Z6G1hbA/+ax/lgPTUG47ZSSMUS6PUAAA="
+      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBQCdASoYAB4APxF8tFKsKCUisBgIAYAiCWUAxNgRfNbgKjdsdY7Vf1VdCCYdXo5cU7QAAP7AUzx8uBL79654h3P7J2UiBTJBGnyhHwqD6CfAwThRx/qx5Xam3+ac71euIK31i6U+VqcQZsoMAAAA"
     },
     {
       "id": "img-013",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-25_L.jpg",
+      "originalName": "4x.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-013-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBQCdASoYAB4APxF6tFMsJ6UiqA1RgCIJYwC4MBF+LD6PWctkQoe5yzw9aynfILaAAP7DPFFIpHkDMCufM0Yxm2DkIQr3p4H2c2xazQY+iHHohy3OYK4mYlVt7yrZT4MX4ZV9tvy/LSTInlKV9G0MLm18FwocAAA="
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYAB4APwVsrFArpiQisAwBcCCJYwC/7BhwHQzBnB9/YejmzQCO8b87r5hgAP7Vjf8S2DTsnKUj8+oEPWscNsYWeghS1501+8VT9p7h/KY++OZkoeoRMUxqPkX0eVK1VMiThwOIKi/6ADFNnG4F0AAA"
     },
     {
       "id": "img-014",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-27_L.jpg",
+      "originalName": "4xx.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-014-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoYAB4APvluqVAqpyQit/qoAVAfCUAW2QQPpX2L1vj7+WOylx+RClEeOjhDgAD+1DSqs2oOg7qXBNyHFRfxVvrRLUHRXEj37RpfXE6hxZW8gWPUUHhSDX54NgHHl3jh4ULn2QogAMh5+4UJXHqGwAAA"
+      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASoYAB4APxGAuFWsJ6UjKAgBgCIJZQDKAFX0C7ck3MVDOy5anGNWcTEAY75mdGgAAP7vw6ppBHyP44/SLdXyE7MECZE7E2+iG2Vd7AM7fIA7vk9c3Ab8zXdpASEPsvXcmi8ZIbveMdyqZWoeFiZbTYSUv0+ZTdgA"
     },
     {
       "id": "img-015",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "080922_PALMHILLS-GEX_CAM-28_L.jpg",
+      "originalName": "5.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-015-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoYAB4APxF8slQsJ6QjKAqpgCIJQBhmhpu7hkYs89a0+kMePD2+QdkgAP7f5VTlTeEEWZ/hsEUUsc8CP1p0LAJ4QuS8F99piVxpTRmNLhmjslJbqvNFe6s+zR+XBsOZVTu7R6GR+cVSoO2qoUAAAA=="
+      "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYAB4APxF+t1UsJ6UjKAgBgCIJYwCdAAyWMvNyN/u53QakrkoGAXtRuMmvq2kAAP32kWxDaJMerB1uQi8WlTOh+wQUehlcwIrpD9azFDgSJSxtKXDS9+NBvYdrPMmtbEfoBar/Jt9IN5LJpjAy5rmVqgqsCoocmdATJAyvc0XMAA=="
     },
     {
       "id": "img-016",
-      "originalWidth": 2160,
-      "originalHeight": 2160,
-      "originalName": "2160_PALMHILLS-GOLF_LS_CAM06.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 1350,
+      "originalName": "6.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-016-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/palmhills-golf-extension/img-016-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/palmhills-golf-extension/img-016-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASoYABgAPxF6slKsJ6SiqA1RgCIJZwDO7Af88/0YSlh3810y1F3KtIAA/tvJ7GMsEy0pRMR30eEj23EyIgN8VhLloj8L1aQV9YxaQrkJ260UsrC66beJ5IR+4zCiAz4AAAA="
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBQCdASoYAB4APxF6t1MsJ6WiqAqpgCIJYwC+SBEJj4X9gzp/Gx/E9rwH6jC5jErGAAAA/pskuRTe/GZbwC+TrTVAiVYdqGWrNhFSTQxEwV/ygAFjjHINaDoLBV9w65oCkkUq9o3dHBwJPD+JXDyCDUbegAAA"
     },
     {
       "id": "img-017",
       "originalWidth": 1080,
       "originalHeight": 1350,
-      "originalName": "Cover_080922_PALMHILLS-GEX_CAM-09_L.jpg",
+      "originalName": "7.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-017-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBQCdASoYAB4APxF+slQsKCQjKAqpgCIJZwDN/DL9y3hlYj3iFlBJNr2ovls4TAELoAD+79eK2yt9vdc7hHtOJaEutYLzIgliQee8T5xxEZVnXLpt1QOepVs4nx0a6cj/3al4p1zCEgQMQOjn1DNrLapUiOfbaFFQu7ODeDgAAA=="
+      "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYAB4APxF8tlQsJ6UjKAqpgCIJYgC/ay/BxGacLK0K/IsOK4eCVOw+vHa8/esHgAD4XF/7S3GikKnF55JZz13GjBjXS91amFpzykKxt1J6CETEiBSs6uFu4YL/VJTSf5SK2dXI5l1k7d2UnMjLguYgesU3a+jkY0f+aZRsKwAAAA=="
     },
     {
       "id": "img-018",
       "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "PALMHILLS-GOLF_LS_CAM01.jpg",
+      "originalHeight": 1350,
+      "originalName": "8.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-018-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABgAPwFwsFArJyUit/qoAWAgCWcAxvQhyCyZyFIasS2eERhmaqWAngAA/tjmSdhuYeJ5K1rlpbTQCgR7HMgX64n1OWlI3LOo1UHVQrSOtnjo/IBOtUY/SwI6ci8AAAA="
+      "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYAB4APwFkrFArJSQit/qoAWAgCWMAqSPUgVQxIi0pxm14wyDht74aJvT2nwotqQAA/sN1rrqnSntQQPdH0AYpSApd/AxipNs157QNIVexX5XLJ5G/2ikLXZTSmuCiXrYR0Z6kR0tkWNxTsQEisRzUYhLHpAAA"
     },
     {
       "id": "img-019",
       "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "PALMHILLS-GOLF_LS_CAM02.jpg",
+      "originalHeight": 1350,
+      "originalName": "9.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/palmhills-golf-extension/img-019-480.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwBQCdASoYABgAPxFsrVGsJSQisBgMAYAiCWcAxcgQ3XD13pOdwrIKwAEOeuq9LO6J8ixo5sAA/rjiBy7b4L1gwiHNxHU30ILZu0fl/U0bCCE798y3Z4xcwTMlfG31+ljxqozFI7nE8p/iVnBhlOJvB9a4AAAA"
-    },
-    {
-      "id": "img-020",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "PALMHILLS-GOLF_LS_CAM03.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/palmhills-golf-extension/img-020-480.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYABgAPxF8tFSsJ6SjKAqpgCIJZwDKtAy8HD7WgYdwu5ah7t9oUVZc4oUngAD+gU0hrxVFq8L4b8DqCK2BCKkC5H/tN8KOLMg/mg9WGaKKrEDnfRaeWF4ySwD1Z6CdL+AAAA=="
-    },
-    {
-      "id": "img-021",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "PALMHILLS-GOLF_LS_CAM06.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/palmhills-golf-extension/img-021-480.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASoYABgAPxF+tFQsKCSjKAqpgCIJZwDM0BDXY4+/vhuLPcHhSVRuA261QAD+z1RhPS/wdXMUCgRJhV6Qy17c17nsh8exgG9WSA3gB2I2glo8+48/C5JS7XKNtlFKD7X2GJmG7gAA"
-    },
-    {
-      "id": "img-022",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "PALMHILLS-GOLF_LS_CAM07.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/palmhills-golf-extension/img-022-480.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBQCdASoYABgAPxF0r1AsJyQisAgBgCIJZwDH5B50DN3ZfJd7nwd6eetm8l2naiygAP592yYMwje+CUqHSaYKBMHn/yOKQMMpnMainFI9iKgQs5xAW0hZNEAAAA=="
+      "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYAB4APxFyrVAsJqQisAgBgCIJYwCw7BszZsnb3zcKYPG5hR3EKk6JdGjpgAD89FaZVENfC+vPFsRZOTZe2vkdjZbQ127g7ErYBZdqqKBDlUVKJVb73OZLeqC4N616wwbrykTltwwovNddIPKUntaA2PC2/8UogAA="
     }
   ]
 }

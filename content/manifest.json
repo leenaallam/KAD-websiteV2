@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T02:41:17.066Z",
+  "generatedAt": "2026-05-30T22:25:34.545Z",
   "projects": {
     "galleria-moon": {
       "slug": "galleria-moon",
@@ -12,35 +12,51 @@
       "images": [
         {
           "id": "hero",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "BEDROOM_CAM-01_GALLERIA-MOON_L.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 2000,
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/galleria-moon/hero-480.webp"
+            },
+            {
+              "width": 1280,
+              "path": "projects/galleria-moon/hero-1280.webp"
+            },
+            {
+              "width": 1920,
+              "path": "projects/galleria-moon/hero-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQBACdASoYABgAPw1ssFAsJaSit/VYAYAhiWUAuwAMTKkPtRY0HCUYr3zQCmCIAAD+0IpehjsmKbvvz4E7TW0IclG2TPeJDRSCiiXhGSgvbA5m21tJ6TBHldC2Jjbrr+O4M6pDUbJ5qBq7AmMMrrwYWe2UyNZ4LYcQ3sgH5JsGQAAA"
+          "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASoYABgAPxF4tlMsJyUiqAqpgCIJZQDCgBVvaL8tRdwxSQ0fEmhyRNQA/ukP0d8rXlN3CGuJEsyZW/qQF9YKLsaiVRQQvjk2NvWb2dHR4+UCaFTxOep0ZdZf3No6AAAA"
         },
         {
           "id": "img-001",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "BEDROOM_CAM-02_GALLERIA-MOON_L.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 2000,
+          "originalName": "1x.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/galleria-moon/img-001-480.webp"
+            },
+            {
+              "width": 1280,
+              "path": "projects/galleria-moon/img-001-1280.webp"
+            },
+            {
+              "width": 1920,
+              "path": "projects/galleria-moon/img-001-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBQCdASoYABgAPxFwtFAsJiUisBgMAYAiCUAXYO9YHefrQ91McWXjeriKxlszOZmsmkAA/ugRdU+aRsFGqEH0ADowQ3paop6hmE56+m4PS14IZgvfJmPjapeeo2aFJF1lVT6wvfSU9cy07D3IfGh0uc2yB6l2ogC0DDUFhbJggAAA"
+          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF8s1OsJ6QiqAqpgCIJZQCuHBI9SypXnxFQ8By8TaDRUdZrcEFD0AD+haas365+hAKvrRcIWoGYE/4odSvF49R1/SoZy2oK0IwXPl/GHxieqa18NEESRzMlFdO11HnvyAA="
         },
         {
           "id": "img-002",
           "originalWidth": 2000,
           "originalHeight": 2000,
-          "originalName": "CAM-06_L.jpg",
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
@@ -55,13 +71,13 @@
               "path": "projects/galleria-moon/img-002-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASoYABgAPxGEuVYsKKWjqAgBgCIJQBfnAhFOqDJ/S6EC2xXdHEHq6AAA/uLzmMW4052SYGvxMYBOku5lb2q2Hlollrui8XlkoyJbwqz2CgUw3nxFsPWWN+fcAAA="
+          "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASoYABgAPwVwrFArpqQit/VYAXAgiWUAsR9CwVSamZIO89VoGll2/FVo+NQAAPcX4WePTLLxwHJnck9GwdVnvZ39Zox5nsmUR3QTQqCe6igHuepkHzMOBZg3NUAAAA=="
         },
         {
           "id": "img-003",
           "originalWidth": 2000,
           "originalHeight": 2000,
-          "originalName": "GALLERIA-MOON_CAM-01_L.jpg",
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
@@ -76,13 +92,13 @@
               "path": "projects/galleria-moon/img-003-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASoYABgAPxF4tlMsJyUiqAqpgCIJZQDCgBVvaL8tRdwxSQ0fEmhyRNQA/ukP0d8rXlN3CGuJEsyZW/qQF9YKLsaiVRQQvjk2NvWb2dHR4+UCaFTxOep0ZdZf3No6AAAA"
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYABgAPxF0sVCwpqSisAgCECIJZQC7ACzcH99YTBHVKUAA/utL+hGm0nY/BrJOLpQiuQQeX6uF8kqzVrxVc+pIlxpE+dablib11zIAAAA="
         },
         {
           "id": "img-004",
           "originalWidth": 2000,
           "originalHeight": 2000,
-          "originalName": "GALLERIA-MOON_CAM-02_L.jpg",
+          "originalName": "4.jpg",
           "variants": [
             {
               "width": 480,
@@ -103,7 +119,7 @@
           "id": "img-005",
           "originalWidth": 2000,
           "originalHeight": 2000,
-          "originalName": "GALLERIA-MOON_CAM-03_L.jpg",
+          "originalName": "5.jpg",
           "variants": [
             {
               "width": 480,
@@ -118,55 +134,39 @@
               "path": "projects/galleria-moon/img-005-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF8s1OsJ6QiqAqpgCIJZQCuHBI9SypXnxFQ8By8TaDRUdZrcEFD0AD+haas365+hAKvrRcIWoGYE/4odSvF49R1/SoZy2oK0IwXPl/GHxieqa18NEESRzMlFdO11HnvyAA="
+          "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASoYABgAPxGEuVYsKKWjqAgBgCIJQBfnAhFOqDJ/S6EC2xXdHEHq6AAA/uLzmMW4052SYGvxMYBOku5lb2q2Hlollrui8XlkoyJbwqz2CgUw3nxFsPWWN+fcAAA="
         },
         {
           "id": "img-006",
-          "originalWidth": 2000,
-          "originalHeight": 2000,
-          "originalName": "GALLERIA-MOON_CAM-04_L.jpg",
+          "originalWidth": 1080,
+          "originalHeight": 1080,
+          "originalName": "6.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/galleria-moon/img-006-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/galleria-moon/img-006-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/galleria-moon/img-006-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASoYABgAPwVwrFArpqQit/VYAXAgiWUAsR9CwVSamZIO89VoGll2/FVo+NQAAPcX4WePTLLxwHJnck9GwdVnvZ39Zox5nsmUR3QTQqCe6igHuepkHzMOBZg3NUAAAA=="
+          "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQBACdASoYABgAPw1ssFAsJaSit/VYAYAhiWUAuwAMTKkPtRY0HCUYr3zQCmCIAAD+0IpehjsmKbvvz4E7TW0IclG2TPeJDRSCiiXhGSgvbA5m21tJ6TBHldC2Jjbrr+O4M6pDUbJ5qBq7AmMMrrwYWe2UyNZ4LYcQ3sgH5JsGQAAA"
         },
         {
           "id": "img-007",
-          "originalWidth": 2000,
-          "originalHeight": 2000,
-          "originalName": "GALLERIA-MOON_CAM-05_L.jpg",
+          "originalWidth": 1080,
+          "originalHeight": 1080,
+          "originalName": "7.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/galleria-moon/img-007-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/galleria-moon/img-007-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/galleria-moon/img-007-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYABgAPxF0sVCwpqSisAgCECIJZQC7ACzcH99YTBHVKUAA/utL+hGm0nY/BrJOLpQiuQQeX6uF8kqzVrxVc+pIlxpE+dablib11zIAAAA="
+          "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBQCdASoYABgAPxFwtFAsJiUisBgMAYAiCUAXYO9YHefrQ91McWXjeriKxlszOZmsmkAA/ugRdU+aRsFGqEH0ADowQ3paop6hmE56+m4PS14IZgvfJmPjapeeo2aFJF1lVT6wvfSU9cy07D3IfGh0uc2yB6l2ogC0DDUFhbJggAAA"
         }
       ]
     },
-    "madenaty": {
-      "slug": "madenaty",
-      "title": "Madenaty",
+    "madinaty": {
+      "slug": "madinaty",
+      "title": "Madinaty",
       "discipline": "Residential · Two units",
       "location": "Madinaty, Egypt",
       "year": "2024",
@@ -181,15 +181,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/hero-480.webp"
+              "path": "projects/madinaty/hero-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/hero-1280.webp"
+              "path": "projects/madinaty/hero-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/hero-1920.webp"
+              "path": "projects/madinaty/hero-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxF2sVAsJ6SisAgBgCIJZwC+SAw0CXpruFtYlwAA+dVMBL/sxqUXOLSiOWrIHHFxRM01fAnxWttd9OtA6lYqDp7YJ7hp9yGIBAA="
@@ -202,15 +202,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-001-480.webp"
+              "path": "projects/madinaty/img-001-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-001-1280.webp"
+              "path": "projects/madinaty/img-001-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-001-1920.webp"
+              "path": "projects/madinaty/img-001-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQBACdASoYAA4APxF0sFAsJySisAgBgCIJZwAAXqHIR4CmIV+zR6BLAADN4sUhyUQQVNEdPmGtFvFXOaDqq+Y9MRFRvN2bBEvAAA=="
@@ -223,15 +223,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-002-480.webp"
+              "path": "projects/madinaty/img-002-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-002-1280.webp"
+              "path": "projects/madinaty/img-002-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-002-1920.webp"
+              "path": "projects/madinaty/img-002-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA4APxFyslAsJqSisAgBgCIJZwDA3BmiesMfJa/iIlA1xAD+u+ulRw90YLvAB1wUq8WOlVVUNf7oL5+WCoYeeVvvEMH+psvFozQAAAA="
@@ -244,15 +244,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-003-480.webp"
+              "path": "projects/madinaty/img-003-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-003-1280.webp"
+              "path": "projects/madinaty/img-003-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-003-1920.webp"
+              "path": "projects/madinaty/img-003-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF2sVAsJ6SisAgBgCIJQAAL1UEgjRzOhHw8/psAAPPquulxCoDp1XvCXleGIxAskmR2c2NKtRTsyfFfjKjANL2AAAA="
@@ -265,15 +265,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-004-480.webp"
+              "path": "projects/madinaty/img-004-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-004-1280.webp"
+              "path": "projects/madinaty/img-004-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-004-1920.webp"
+              "path": "projects/madinaty/img-004-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBACdASoYAA8APxFyslAsJqSisAgBgCIJQBOmUABv500fcsfvV1hqggAAzYoBerMEPZIebGY4Gz5Y37KFVDo5thJ5gEikJa2/crMEpPPtzZfZpgwfmXl2jv8AAA=="
@@ -286,15 +286,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-005-480.webp"
+              "path": "projects/madinaty/img-005-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-005-1280.webp"
+              "path": "projects/madinaty/img-005-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-005-1920.webp"
+              "path": "projects/madinaty/img-005-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA8APxF0sFCsJqSisAgBgCIJYgCdACP6sQ0tBlu+aFG7AAD+qbAy8D1hluBs5nUcwUNF6A9LbK5Ha4C7lEIyZRPTxynLbz16QAAA"
@@ -307,15 +307,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-006-480.webp"
+              "path": "projects/madinaty/img-006-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-006-1280.webp"
+              "path": "projects/madinaty/img-006-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-006-1920.webp"
+              "path": "projects/madinaty/img-006-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYAA8APxFysVAsJqSisAgBgCIJQBOmUABWsHP67Zid3CyIwAD+x0kKtDIxM6Jpb2YDEZR+HtIzpj9Ld15Xsy/h5KesK+QT2JTiAG3m0dFRAAAA"
@@ -328,15 +328,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-007-480.webp"
+              "path": "projects/madinaty/img-007-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-007-1280.webp"
+              "path": "projects/madinaty/img-007-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-007-1920.webp"
+              "path": "projects/madinaty/img-007-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA8APxFysFAsJqSisAgBgCIJQBOmUAA1IbqJPlyrGZgA9wvcWdactfetKitW4JvCmtCAE4j6DaZqOgBZfiYgVrabf3EkFxtmvyT7BYyAAA=="
@@ -349,15 +349,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-008-480.webp"
+              "path": "projects/madinaty/img-008-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-008-1280.webp"
+              "path": "projects/madinaty/img-008-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-008-1920.webp"
+              "path": "projects/madinaty/img-008-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA8APxF0sFAsJySisAgBgCIJQBOmUI8DBYgYYqJoeyfW8ADdhbJtd7uMhT1FsF+DGl1hVToQwgEjoDCglO08xx5QNrTFb5muSKbpsAA="
@@ -370,15 +370,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-009-480.webp"
+              "path": "projects/madinaty/img-009-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-009-1280.webp"
+              "path": "projects/madinaty/img-009-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-009-1920.webp"
+              "path": "projects/madinaty/img-009-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoYAA8APxFysFAsJqSisAgBgCIJQBOgAGhPnOKLGAD5rdEuq/b75a4jtjFwBSsbbP4CMMgYVQY1hf8y5/dK77eSOYAAAA=="
@@ -391,15 +391,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-010-480.webp"
+              "path": "projects/madinaty/img-010-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-010-1280.webp"
+              "path": "projects/madinaty/img-010-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-010-1920.webp"
+              "path": "projects/madinaty/img-010-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoYAA8APxF0tFAsJyUisAgBgCIJZACdMoAJUAdy4Aj0NjyrgAD+ntEH9LSz55N+gXFNLwm08sK1POp7tPXpzX17cMM6+9oW114/UyypaUdZaUMG0AA="
@@ -412,15 +412,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-011-480.webp"
+              "path": "projects/madinaty/img-011-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-011-1280.webp"
+              "path": "projects/madinaty/img-011-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-011-1920.webp"
+              "path": "projects/madinaty/img-011-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYAA8APxF0sFCsJqSisAgBgCIJQBOgBHzRTcfDyIcryAAA+Dfh1f1rFGq0bAJQg0aQ4S67HuDvz0q6gz2aMEvs7L2iD5UAAAA="
@@ -433,15 +433,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-012-480.webp"
+              "path": "projects/madinaty/img-012-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-012-1280.webp"
+              "path": "projects/madinaty/img-012-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-012-1920.webp"
+              "path": "projects/madinaty/img-012-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA8APxF0tFEsJqUisAgBgCIJYgCdMoAC7iU8uSIBT+BNAADL8NHgvQeUoZ9fUvNvby/pboiFxdvLsWHGRha0g+2a1ywIsel400IAAAA="
@@ -454,15 +454,15 @@
           "variants": [
             {
               "width": 480,
-              "path": "projects/madenaty/img-013-480.webp"
+              "path": "projects/madinaty/img-013-480.webp"
             },
             {
               "width": 1280,
-              "path": "projects/madenaty/img-013-1280.webp"
+              "path": "projects/madinaty/img-013-1280.webp"
             },
             {
               "width": 1920,
-              "path": "projects/madenaty/img-013-1920.webp"
+              "path": "projects/madinaty/img-013-1920.webp"
             }
           ],
           "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAwCdASoYAA8APxFwsFAsJiSisAgBgCIJQBdgAP+LktgRMSAA96HII+XVA9muOKY0ENjsOjoSHCGpdGeNkE8utbRB7ZOHPBMmq2XkgAA="
@@ -594,19 +594,6 @@
             }
           ],
           "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPvViqlAqpaQit+gBUB6JZwDKADJFCm4ts+J5/9PgqPL5OgVBDHM+AAD+7o48gZMBnE/6LiZalSBDzkXB+DBHE4LwvQ246CeV2HpuiwjhnokRa+Y55mHQ2Heq1FxkPF9RHYgAAA=="
-        },
-        {
-          "id": "img-009",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "CAM08_VILLA-HAMDY_0.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/villa-hamdy/img-009-480.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQBACdASoYABgAPxF2sVGsJySiqA1RgCIJZwC5IA9iPgQtiY3UGfMmNI/r7g/0ZAD+u84vMEnQ+FB5XSC3vvuW6KzxX3g145vD2zZSPNP6XFuWEqj2OEwj/sbSLBybmegx9k8Ls+tmSWTmRDAStmdjpwO4IAAA"
         }
       ]
     },
@@ -623,308 +610,269 @@
           "id": "hero",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-03_L.jpg",
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/hero-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASoYAB4APxF0r1AsJyQisAgBgCIJZQC7ABtlcU7kRlIPrqaQ+vkX5FmAtpAAAPt/qZtWiHsMfffhl31gPr7PF2MJv2EkbgpbJMTZMbDqVmglXPuD14EI5UMF+nYqN/OFfdOmnVw5bNWmROQMrqaAAA=="
+          "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBQCdASoYAB4APxF+slQsKCQjKAqpgCIJZwDN/DL9y3hlYj3iFlBJNr2ovls4TAELoAD+79eK2yt9vdc7hHtOJaEutYLzIgliQee8T5xxEZVnXLpt1QOepVs4nx0a6cj/3al4p1zCEgQMQOjn1DNrLapUiOfbaFFQu7ODeDgAAA=="
         },
         {
           "id": "img-001",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-05_L.jpg",
+          "originalName": "10.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-001-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYAB4APxF6s1OsJyQiqAqpgCIJYwC84DTmE1BC0vbBEZ8/19NwcCx3sRjG4cAA/mZfbDrbFvgzvRXP13KkBEqDQNjKSjqkjqMEIEa62alk7pnPs8om1o5/8pA+QUk4B15hNrI6QE+YAAAA"
+          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBQCdASoYAB4APxFws1CsJiSisBgMAYAiCUAXYAaJQ26lPtBhb0C6rcifEjtaGwqFgAD9+dHHOCxXkWh09VySM5uBIwuvLUI/wlTqh0GuLgLXzmDZyOwcZeAHrdbmEBOz3IbuOHFDS2n1nz9G/1LAX0M4Gp4Y6u0DNgAA"
         },
         {
           "id": "img-002",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-07-01_L.jpg",
+          "originalName": "11.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-002-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYAB4APxF+t1UsJ6UjKAgBgCIJYwCdAAyWMvNyN/u53QakrkoGAXtRuMmvq2kAAP32kWxDaJMerB1uQi8WlTOh+wQUehlcwIrpD9azFDgSJSxtKXDS9+NBvYdrPMmtbEfoBar/Jt9IN5LJpjAy5rmVqgqsCoocmdATJAyvc0XMAA=="
+          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYAB4APxF0slMsJiSisBgIAYAiCUAYG4ZYOQiXxg7SQUlHleWvDU9DLxc0sAAA+B/NLS9HsH9/dk9xxoFYbqbFWcXp5xgXDrjcImGc/tjK4+TqCZ/5B1CcVx8Z6G1hbA/+ax/lgPTUG47ZSSMUS6PUAAA="
         },
         {
           "id": "img-003",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-08_01_L.jpg",
+          "originalName": "12.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-003-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBQCdASoYAB4APxF8tFKsKCUisBgIAYAiCWUAxNgRfNbgKjdsdY7Vf1VdCCYdXo5cU7QAAP7AUzx8uBL79654h3P7J2UiBTJBGnyhHwqD6CfAwThRx/qx5Xam3+ac71euIK31i6U+VqcQZsoMAAAA"
+          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBQCdASoYAB4APxF6tFMsJ6UiqA1RgCIJYwC4MBF+LD6PWctkQoe5yzw9aynfILaAAP7DPFFIpHkDMCufM0Yxm2DkIQr3p4H2c2xazQY+iHHohy3OYK4mYlVt7yrZT4MX4ZV9tvy/LSTInlKV9G0MLm18FwocAAA="
         },
         {
           "id": "img-004",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-10_L.jpg",
+          "originalName": "13.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-004-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBQCdASoYAB4APxF6t1MsJ6WiqAqpgCIJYwC+SBEJj4X9gzp/Gx/E9rwH6jC5jErGAAAA/pskuRTe/GZbwC+TrTVAiVYdqGWrNhFSTQxEwV/ygAFjjHINaDoLBV9w65oCkkUq9o3dHBwJPD+JXDyCDUbegAAA"
+          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoYAB4APvluqVAqpyQit/qoAVAfCUAW2QQPpX2L1vj7+WOylx+RClEeOjhDgAD+1DSqs2oOg7qXBNyHFRfxVvrRLUHRXEj37RpfXE6hxZW8gWPUUHhSDX54NgHHl3jh4ULn2QogAMh5+4UJXHqGwAAA"
         },
         {
           "id": "img-005",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-12_L.jpg",
+          "originalName": "14.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-005-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYAB4APxF8tlQsJ6UjKAqpgCIJYgC/ay/BxGacLK0K/IsOK4eCVOw+vHa8/esHgAD4XF/7S3GikKnF55JZz13GjBjXS91amFpzykKxt1J6CETEiBSs6uFu4YL/VJTSf5SK2dXI5l1k7d2UnMjLguYgesU3a+jkY0f+aZRsKwAAAA=="
+          "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoYAB4APxF8slQsJ6QjKAqpgCIJQBhmhpu7hkYs89a0+kMePD2+QdkgAP7f5VTlTeEEWZ/hsEUUsc8CP1p0LAJ4QuS8F99piVxpTRmNLhmjslJbqvNFe6s+zR+XBsOZVTu7R6GR+cVSoO2qoUAAAA=="
         },
         {
           "id": "img-006",
           "originalWidth": 1080,
-          "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-13_L.jpg",
+          "originalHeight": 1080,
+          "originalName": "15.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-006-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBQCdASoYAB4APxFwslMsJaSisBgIAYAiCWcAAIIi1A99S6pTGHyJmFTNvmzXvBzYoAD+4IKMU6qeTgQK7E9fpzwWBnrPxa8UJhs5rWEIUOq/Bymp4FmcAxVtEFOEKSkJkXB3Mjnv2n625ZJDHJLoRkezbqHDKZAAAA=="
+          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBQCdASoYABgAPxF0r1AsJyQisAgBgCIJZwDH5B50DN3ZfJd7nwd6eetm8l2naiygAP592yYMwje+CUqHSaYKBMHn/yOKQMMpnMainFI9iKgQs5xAW0hZNEAAAA=="
         },
         {
           "id": "img-007",
-          "originalWidth": 1080,
-          "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-15_L.jpg",
+          "originalWidth": 2160,
+          "originalHeight": 2160,
+          "originalName": "16.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-007-480.webp"
+            },
+            {
+              "width": 1280,
+              "path": "projects/palmhills-golf-extension/img-007-1280.webp"
+            },
+            {
+              "width": 1920,
+              "path": "projects/palmhills-golf-extension/img-007-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYAB4APxFyrVAsJqQisAgBgCIJYwCw7BszZsnb3zcKYPG5hR3EKk6JdGjpgAD89FaZVENfC+vPFsRZOTZe2vkdjZbQ127g7ErYBZdqqKBDlUVKJVb73OZLeqC4N616wwbrykTltwwovNddIPKUntaA2PC2/8UogAA="
+          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASoYABgAPxF6slKsJ6SiqA1RgCIJZwDO7Af88/0YSlh3810y1F3KtIAA/tvJ7GMsEy0pRMR30eEj23EyIgN8VhLloj8L1aQV9YxaQrkJ260UsrC66beJ5IR+4zCiAz4AAAA="
         },
         {
           "id": "img-008",
           "originalWidth": 1080,
-          "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-16_L.jpg",
+          "originalHeight": 1080,
+          "originalName": "17.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-008-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYAB4APwVsrFArpiQisAwBcCCJYwC/7BhwHQzBnB9/YejmzQCO8b87r5hgAP7Vjf8S2DTsnKUj8+oEPWscNsYWeghS1501+8VT9p7h/KY++OZkoeoRMUxqPkX0eVK1VMiThwOIKi/6ADFNnG4F0AAA"
+          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABgAPwFwsFArJyUit/qoAWAgCWcAxvQhyCyZyFIasS2eERhmaqWAngAA/tjmSdhuYeJ5K1rlpbTQCgR7HMgX64n1OWlI3LOo1UHVQrSOtnjo/IBOtUY/SwI6ci8AAAA="
         },
         {
           "id": "img-009",
           "originalWidth": 1080,
-          "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-20_L.jpg",
+          "originalHeight": 1080,
+          "originalName": "18.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-009-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASoYAB4APxGAuFWsJ6UjKAgBgCIJZQDKAFX0C7ck3MVDOy5anGNWcTEAY75mdGgAAP7vw6ppBHyP44/SLdXyE7MECZE7E2+iG2Vd7AM7fIA7vk9c3Ab8zXdpASEPsvXcmi8ZIbveMdyqZWoeFiZbTYSUv0+ZTdgA"
+          "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYABgAPxF8tFSsJ6SjKAqpgCIJZwDKtAy8HD7WgYdwu5ah7t9oUVZc4oUngAD+gU0hrxVFq8L4b8DqCK2BCKkC5H/tN8KOLMg/mg9WGaKKrEDnfRaeWF4ySwD1Z6CdL+AAAA=="
         },
         {
           "id": "img-010",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-22_L.jpg",
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-010-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYAB4APwFkrFArJSQit/qoAWAgCWMAqSPUgVQxIi0pxm14wyDht74aJvT2nwotqQAA/sN1rrqnSntQQPdH0AYpSApd/AxipNs157QNIVexX5XLJ5G/2ikLXZTSmuCiXrYR0Z6kR0tkWNxTsQEisRzUYhLHpAAA"
+          "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASoYAB4APxF0r1AsJyQisAgBgCIJZQC7ABtlcU7kRlIPrqaQ+vkX5FmAtpAAAPt/qZtWiHsMfffhl31gPr7PF2MJv2EkbgpbJMTZMbDqVmglXPuD14EI5UMF+nYqN/OFfdOmnVw5bNWmROQMrqaAAA=="
         },
         {
           "id": "img-011",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-23_L.jpg",
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-011-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBQCdASoYAB4APxFws1CsJiSisBgMAYAiCUAXYAaJQ26lPtBhb0C6rcifEjtaGwqFgAD9+dHHOCxXkWh09VySM5uBIwuvLUI/wlTqh0GuLgLXzmDZyOwcZeAHrdbmEBOz3IbuOHFDS2n1nz9G/1LAX0M4Gp4Y6u0DNgAA"
+          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYAB4APxF6s1OsJyQiqAqpgCIJYwC84DTmE1BC0vbBEZ8/19NwcCx3sRjG4cAA/mZfbDrbFvgzvRXP13KkBEqDQNjKSjqkjqMEIEa62alk7pnPs8om1o5/8pA+QUk4B15hNrI6QE+YAAAA"
         },
         {
           "id": "img-012",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-24_L.jpg",
+          "originalName": "4.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-012-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYAB4APxF0slMsJiSisBgIAYAiCUAYG4ZYOQiXxg7SQUlHleWvDU9DLxc0sAAA+B/NLS9HsH9/dk9xxoFYbqbFWcXp5xgXDrjcImGc/tjK4+TqCZ/5B1CcVx8Z6G1hbA/+ax/lgPTUG47ZSSMUS6PUAAA="
+          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBQCdASoYAB4APxF8tFKsKCUisBgIAYAiCWUAxNgRfNbgKjdsdY7Vf1VdCCYdXo5cU7QAAP7AUzx8uBL79654h3P7J2UiBTJBGnyhHwqD6CfAwThRx/qx5Xam3+ac71euIK31i6U+VqcQZsoMAAAA"
         },
         {
           "id": "img-013",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-25_L.jpg",
+          "originalName": "4x.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-013-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBQCdASoYAB4APxF6tFMsJ6UiqA1RgCIJYwC4MBF+LD6PWctkQoe5yzw9aynfILaAAP7DPFFIpHkDMCufM0Yxm2DkIQr3p4H2c2xazQY+iHHohy3OYK4mYlVt7yrZT4MX4ZV9tvy/LSTInlKV9G0MLm18FwocAAA="
+          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYAB4APwVsrFArpiQisAwBcCCJYwC/7BhwHQzBnB9/YejmzQCO8b87r5hgAP7Vjf8S2DTsnKUj8+oEPWscNsYWeghS1501+8VT9p7h/KY++OZkoeoRMUxqPkX0eVK1VMiThwOIKi/6ADFNnG4F0AAA"
         },
         {
           "id": "img-014",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-27_L.jpg",
+          "originalName": "4xx.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-014-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoYAB4APvluqVAqpyQit/qoAVAfCUAW2QQPpX2L1vj7+WOylx+RClEeOjhDgAD+1DSqs2oOg7qXBNyHFRfxVvrRLUHRXEj37RpfXE6hxZW8gWPUUHhSDX54NgHHl3jh4ULn2QogAMh5+4UJXHqGwAAA"
+          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASoYAB4APxGAuFWsJ6UjKAgBgCIJZQDKAFX0C7ck3MVDOy5anGNWcTEAY75mdGgAAP7vw6ppBHyP44/SLdXyE7MECZE7E2+iG2Vd7AM7fIA7vk9c3Ab8zXdpASEPsvXcmi8ZIbveMdyqZWoeFiZbTYSUv0+ZTdgA"
         },
         {
           "id": "img-015",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "080922_PALMHILLS-GEX_CAM-28_L.jpg",
+          "originalName": "5.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-015-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoYAB4APxF8slQsJ6QjKAqpgCIJQBhmhpu7hkYs89a0+kMePD2+QdkgAP7f5VTlTeEEWZ/hsEUUsc8CP1p0LAJ4QuS8F99piVxpTRmNLhmjslJbqvNFe6s+zR+XBsOZVTu7R6GR+cVSoO2qoUAAAA=="
+          "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASoYAB4APxF+t1UsJ6UjKAgBgCIJYwCdAAyWMvNyN/u53QakrkoGAXtRuMmvq2kAAP32kWxDaJMerB1uQi8WlTOh+wQUehlcwIrpD9azFDgSJSxtKXDS9+NBvYdrPMmtbEfoBar/Jt9IN5LJpjAy5rmVqgqsCoocmdATJAyvc0XMAA=="
         },
         {
           "id": "img-016",
-          "originalWidth": 2160,
-          "originalHeight": 2160,
-          "originalName": "2160_PALMHILLS-GOLF_LS_CAM06.jpg",
+          "originalWidth": 1080,
+          "originalHeight": 1350,
+          "originalName": "6.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-016-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/palmhills-golf-extension/img-016-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/palmhills-golf-extension/img-016-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASoYABgAPxF6slKsJ6SiqA1RgCIJZwDO7Af88/0YSlh3810y1F3KtIAA/tvJ7GMsEy0pRMR30eEj23EyIgN8VhLloj8L1aQV9YxaQrkJ260UsrC66beJ5IR+4zCiAz4AAAA="
+          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBQCdASoYAB4APxF6t1MsJ6WiqAqpgCIJYwC+SBEJj4X9gzp/Gx/E9rwH6jC5jErGAAAA/pskuRTe/GZbwC+TrTVAiVYdqGWrNhFSTQxEwV/ygAFjjHINaDoLBV9w65oCkkUq9o3dHBwJPD+JXDyCDUbegAAA"
         },
         {
           "id": "img-017",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "Cover_080922_PALMHILLS-GEX_CAM-09_L.jpg",
+          "originalName": "7.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-017-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBQCdASoYAB4APxF+slQsKCQjKAqpgCIJZwDN/DL9y3hlYj3iFlBJNr2ovls4TAELoAD+79eK2yt9vdc7hHtOJaEutYLzIgliQee8T5xxEZVnXLpt1QOepVs4nx0a6cj/3al4p1zCEgQMQOjn1DNrLapUiOfbaFFQu7ODeDgAAA=="
+          "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYAB4APxF8tlQsJ6UjKAqpgCIJYgC/ay/BxGacLK0K/IsOK4eCVOw+vHa8/esHgAD4XF/7S3GikKnF55JZz13GjBjXS91amFpzykKxt1J6CETEiBSs6uFu4YL/VJTSf5SK2dXI5l1k7d2UnMjLguYgesU3a+jkY0f+aZRsKwAAAA=="
         },
         {
           "id": "img-018",
           "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "PALMHILLS-GOLF_LS_CAM01.jpg",
+          "originalHeight": 1350,
+          "originalName": "8.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-018-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABgAPwFwsFArJyUit/qoAWAgCWcAxvQhyCyZyFIasS2eERhmaqWAngAA/tjmSdhuYeJ5K1rlpbTQCgR7HMgX64n1OWlI3LOo1UHVQrSOtnjo/IBOtUY/SwI6ci8AAAA="
+          "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYAB4APwFkrFArJSQit/qoAWAgCWMAqSPUgVQxIi0pxm14wyDht74aJvT2nwotqQAA/sN1rrqnSntQQPdH0AYpSApd/AxipNs157QNIVexX5XLJ5G/2ikLXZTSmuCiXrYR0Z6kR0tkWNxTsQEisRzUYhLHpAAA"
         },
         {
           "id": "img-019",
           "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "PALMHILLS-GOLF_LS_CAM02.jpg",
+          "originalHeight": 1350,
+          "originalName": "9.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/palmhills-golf-extension/img-019-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwBQCdASoYABgAPxFsrVGsJSQisBgMAYAiCWcAxcgQ3XD13pOdwrIKwAEOeuq9LO6J8ixo5sAA/rjiBy7b4L1gwiHNxHU30ILZu0fl/U0bCCE798y3Z4xcwTMlfG31+ljxqozFI7nE8p/iVnBhlOJvB9a4AAAA"
-        },
-        {
-          "id": "img-020",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "PALMHILLS-GOLF_LS_CAM03.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/palmhills-golf-extension/img-020-480.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYABgAPxF8tFSsJ6SjKAqpgCIJZwDKtAy8HD7WgYdwu5ah7t9oUVZc4oUngAD+gU0hrxVFq8L4b8DqCK2BCKkC5H/tN8KOLMg/mg9WGaKKrEDnfRaeWF4ySwD1Z6CdL+AAAA=="
-        },
-        {
-          "id": "img-021",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "PALMHILLS-GOLF_LS_CAM06.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/palmhills-golf-extension/img-021-480.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASoYABgAPxF+tFQsKCSjKAqpgCIJZwDM0BDXY4+/vhuLPcHhSVRuA261QAD+z1RhPS/wdXMUCgRJhV6Qy17c17nsh8exgG9WSA3gB2I2glo8+48/C5JS7XKNtlFKD7X2GJmG7gAA"
-        },
-        {
-          "id": "img-022",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "PALMHILLS-GOLF_LS_CAM07.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/palmhills-golf-extension/img-022-480.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBQCdASoYABgAPxF0r1AsJyQisAgBgCIJZwDH5B50DN3ZfJd7nwd6eetm8l2naiygAP592yYMwje+CUqHSaYKBMHn/yOKQMMpnMainFI9iKgQs5xAW0hZNEAAAA=="
+          "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYAB4APxFyrVAsJqQisAgBgCIJYwCw7BszZsnb3zcKYPG5hR3EKk6JdGjpgAD89FaZVENfC+vPFsRZOTZe2vkdjZbQ127g7ErYBZdqqKBDlUVKJVb73OZLeqC4N616wwbrykTltwwovNddIPKUntaA2PC2/8UogAA="
         }
       ]
     },
@@ -941,7 +889,7 @@
           "id": "hero",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_LX.jpg",
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
@@ -956,13 +904,13 @@
               "path": "projects/palmhills-1702/hero-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZQCw7CHfwk8XjTG+gCJOwAD+2cTOaxgKWc/+b2h6GvlpvB1+C8Y5Vy+xpbE/LoGcPrYeiQAAAA=="
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASoYAA4APxFysVCsJqSisAgBgCIJZQCsAB4ZsJgHH9P9En2P7gAA/gclHojeCKWhnLrLxYo824GrDVPrQ11RtF51MgI9IjMgxgZAAA=="
         },
         {
           "id": "img-001",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "Cover_PALMHILLS-1702_CAM-01_L.jpg",
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
@@ -977,13 +925,13 @@
               "path": "projects/palmhills-1702/img-001-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASoYAA4APxFysVCsJqSisAgBgCIJZQCsAB4ZsJgHH9P9En2P7gAA/gclHojeCKWhnLrLxYo824GrDVPrQ11RtF51MgI9IjMgxgZAAA=="
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZQCw7CHfwk8XjTG+gCJOwAD+2cTOaxgKWc/+b2h6GvlpvB1+C8Y5Vy+xpbE/LoGcPrYeiQAAAA=="
         },
         {
           "id": "img-002",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-02_L.jpg",
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
@@ -998,13 +946,13 @@
               "path": "projects/palmhills-1702/img-002-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdMoADD/Y7JoTuHzsAAP7MLLFJLMlathKY/DZgNg2mb5cIufAtIdpkdVYW6gaIR972Om7QfxLwAAA="
+          "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwC/OBuyFvCJOpwZAAD+1LQM7nyHBSRe9gWYao7nNve9Mp4l1J4f/2UVM9C2AAA="
         },
         {
           "id": "img-003",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-03_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-02_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1019,13 +967,13 @@
               "path": "projects/palmhills-1702/img-003-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZwDA3CHhHzQn+o8ppu/3AAD+2wYIrE3XJwDByQGsBX4Ng2gyo3+tzFc+1+wIvwUQAAAA"
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdMoADD/Y7JoTuHzsAAP7MLLFJLMlathKY/DZgNg2mb5cIufAtIdpkdVYW6gaIR972Om7QfxLwAAA="
         },
         {
           "id": "img-004",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-04_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-03_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1040,13 +988,13 @@
               "path": "projects/palmhills-1702/img-004-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF2sVAsJ6SisAgBgCIJZwAARau0jWyndDHn499RAAD7qntIl7lJoEvEMLzeWdDUZ6DPHZEHMk3ofK6AaR88DCZv395QAAAA"
+          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYAA4APxF6tFAsKCUisAgBgCIJZwDA3CHhHzQn+o8ppu/3AAD+2wYIrE3XJwDByQGsBX4Ng2gyo3+tzFc+1+wIvwUQAAAA"
         },
         {
           "id": "img-005",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-05_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-04_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1061,13 +1009,13 @@
               "path": "projects/palmhills-1702/img-005-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZAC7AGjSbu+87dQfu6eAAP78rAxUdYr5c+OQKDNSr9o/IXv6DBgYF53R65daAWSC54yDw9r5m/jLEmFe56zK7t/gNDsBLqAATkAA"
+          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF2sVAsJ6SisAgBgCIJZwAARau0jWyndDHn499RAAD7qntIl7lJoEvEMLzeWdDUZ6DPHZEHMk3ofK6AaR88DCZv395QAAAA"
         },
         {
           "id": "img-006",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-06_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-05_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1082,13 +1030,13 @@
               "path": "projects/palmhills-1702/img-006-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFOv1osIqgkmAGAIglnAMM0G6L39ucyuUZxA6gA/sy225T2ZXkrWW9feST4S3Qbb3abcsBQ9fvMQR7Oq+NPe3xwARRbnExTqbQAAA=="
+          "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZAC7AGjSbu+87dQfu6eAAP78rAxUdYr5c+OQKDNSr9o/IXv6DBgYF53R65daAWSC54yDw9r5m/jLEmFe56zK7t/gNDsBLqAATkAA"
         },
         {
           "id": "img-007",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-07_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-06_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1103,13 +1051,13 @@
               "path": "projects/palmhills-1702/img-007-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZwC3uCLqdJJrERxn3wK0APZOzDseHT9CnIKveorJNKRtDnf9FPARw6YlUnyoyO6I2vghAAAAAA=="
+          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFOv1osIqgkmAGAIglnAMM0G6L39ucyuUZxA6gA/sy225T2ZXkrWW9feST4S3Qbb3abcsBQ9fvMQR7Oq+NPe3xwARRbnExTqbQAAA=="
         },
         {
           "id": "img-008",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-09_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-07_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1124,13 +1072,13 @@
               "path": "projects/palmhills-1702/img-008-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJZwC+SBjsMp05lpN+tWQAAP28YY9ThnZ8eNz8eBi8YFBCelmBty/LeNiOCbjVd7ilPqI5pLiAIL5kA0lar/hrMmpgJQAA"
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZwC3uCLqdJJrERxn3wK0APZOzDseHT9CnIKveorJNKRtDnf9FPARw6YlUnyoyO6I2vghAAAAAA=="
         },
         {
           "id": "img-009",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-11_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-09_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1145,13 +1093,13 @@
               "path": "projects/palmhills-1702/img-009-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF4tFGsJyUisAgBgCIJZQCzgBbLM0NqtANmggYAAP2yJgbSGAshUommGWqhHE0En80e1cZ2hEjrlc8jx/EpVsoAAAA="
+          "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJZwC+SBjsMp05lpN+tWQAAP28YY9ThnZ8eNz8eBi8YFBCelmBty/LeNiOCbjVd7ilPqI5pLiAIL5kA0lar/hrMmpgJQAA"
         },
         {
           "id": "img-010",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "PALMHILLS-1702_CAM-12_L.jpg",
+          "originalName": "PALMHILLS-1702_CAM-11_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1166,7 +1114,7 @@
               "path": "projects/palmhills-1702/img-010-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwC/OBuyFvCJOpwZAAD+1LQM7nyHBSRe9gWYao7nNve9Mp4l1J4f/2UVM9C2AAA="
+          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF4tFGsJyUisAgBgCIJZQCzgBbLM0NqtANmggYAAP2yJgbSGAshUommGWqhHE0En80e1cZ2hEjrlc8jx/EpVsoAAAA="
         }
       ]
     },
@@ -1183,7 +1131,7 @@
           "id": "hero",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "COVER_REHAB-CITY_CAM-04_L.jpg",
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
@@ -1204,7 +1152,7 @@
           "id": "img-001",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_BATHROOM_CAM-02_L.jpg",
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
@@ -1219,13 +1167,13 @@
               "path": "projects/rehab-city-01/img-001-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAA4ALtGIxGIkLCwsDADQSygFvcIh+0uT2E9DqKQAAP7xYo2EjqOPC3p40TuwGWRT+qVfHzPQrJG+gTvnR00DqD232u3quqQAAA=="
+          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APxF2slEsJySisAgBgCIJZwCdABhINdZG05cUcAD7Q9mOdLR2wKZegPUvMAxtp5af6sAYbnIMIm3GKsvXUJ+rnR402G7ph2p4/Q8TBLIAAAA="
         },
         {
           "id": "img-002",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "REHAB-CITY_BATHROOM_CAM-03_L.jpg",
+          "originalWidth": 2000,
+          "originalHeight": 1176,
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
@@ -1240,13 +1188,13 @@
               "path": "projects/rehab-city-01/img-002-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC+SBTnoFH96oNzrD8AAP5HzIyw3uTaI5l0XUtHjySD5GrYGONjW7XxZRTWps5wyrtjE/5aq+sJO86QAAAA"
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCsABhevBRLPORdriAA/r9jXHKiAdbawUVR8H3q5B9EAvru9xRnNnYX8lKK/CfI8aT79AAAAA=="
         },
         {
           "id": "img-003",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_BATHROOM_CAM-04_L.jpg",
+          "originalName": "4.jpg",
           "variants": [
             {
               "width": 480,
@@ -1261,13 +1209,13 @@
               "path": "projects/rehab-city-01/img-003-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYwC7ACF5789PyFwFDP9h10AA/tkxfWKsqMSW+GIW8nnomeAVKMmzXJtbeOyKfp7fqB9Vnhkd/VH9IcrMpgAA"
+          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDCgBnQ0fv2t1h/ysXObAD+475PGH4huTUAPZd/9ZQ/2G2cj9JBjXzQNgfXn+KQk1sYZIjxVsuyfTQiwAAA"
         },
         {
           "id": "img-004",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_BATHROOM_CAM-05_L.jpg",
+          "originalName": "5.jpg",
           "variants": [
             {
               "width": 480,
@@ -1282,13 +1230,13 @@
               "path": "projects/rehab-city-01/img-004-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC7AB6WV815WGRwffvgAPr+cKSWgZjQZjPwK8XHAls1BO++UDhiYthR1G+IxOkxG3H5XwVbDsQA"
+          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZwCzgBwzSwLn+x+XjqQAAPnjLqqaNxDSLbjfrsPSVHuIwGLXfdPj024YoEZVLLM8FAAA"
         },
         {
           "id": "img-005",
-          "originalWidth": 2000,
-          "originalHeight": 1176,
-          "originalName": "REHAB-CITY_CAM-01_L.jpg",
+          "originalWidth": 1920,
+          "originalHeight": 1080,
+          "originalName": "5x.jpg",
           "variants": [
             {
               "width": 480,
@@ -1303,13 +1251,13 @@
               "path": "projects/rehab-city-01/img-005-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCsABhevBRLPORdriAA/r9jXHKiAdbawUVR8H3q5B9EAvru9xRnNnYX8lKK/CfI8aT79AAAAA=="
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwCnFBk4B1+uG5mYSgAA/skGLrvP1m4+gXL31OSGd6Nh0l2ORgiOgCxX5+FgxgnwERYsuyqe5ZgAAAA="
         },
         {
           "id": "img-006",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_CAM-02_L.jpg",
+          "originalName": "6.jpg",
           "variants": [
             {
               "width": 480,
@@ -1324,13 +1272,13 @@
               "path": "projects/rehab-city-01/img-006-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APxF2slEsJySisAgBgCIJZwCdABhINdZG05cUcAD7Q9mOdLR2wKZegPUvMAxtp5af6sAYbnIMIm3GKsvXUJ+rnR402G7ph2p4/Q8TBLIAAAA="
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAA4ALtGIxGIkLCwsDADQSygFvcIh+0uT2E9DqKQAAP7xYo2EjqOPC3p40TuwGWRT+qVfHzPQrJG+gTvnR00DqD232u3quqQAAA=="
         },
         {
           "id": "img-007",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_CAM-03_L.jpg",
+          "originalName": "REHAB-CITY_BATHROOM_CAM-04_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1345,13 +1293,13 @@
               "path": "projects/rehab-city-01/img-007-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwCnFBk4B1+uG5mYSgAA/skGLrvP1m4+gXL31OSGd6Nh0l2ORgiOgCxX5+FgxgnwERYsuyqe5ZgAAAA="
+          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYwC7ACF5789PyFwFDP9h10AA/tkxfWKsqMSW+GIW8nnomeAVKMmzXJtbeOyKfp7fqB9Vnhkd/VH9IcrMpgAA"
         },
         {
           "id": "img-008",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "REHAB-CITY_CAM-055_L.jpg",
+          "originalName": "REHAB-CITY_BATHROOM_CAM-05_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -1366,28 +1314,7 @@
               "path": "projects/rehab-city-01/img-008-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZwCzgBwzSwLn+x+XjqQAAPnjLqqaNxDSLbjfrsPSVHuIwGLXfdPj024YoEZVLLM8FAAA"
-        },
-        {
-          "id": "img-009",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "REHAB-CITY_CAM-06_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/rehab-city-01/img-009-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/rehab-city-01/img-009-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/rehab-city-01/img-009-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDCgBnQ0fv2t1h/ysXObAD+475PGH4huTUAPZd/9ZQ/2G2cj9JBjXzQNgfXn+KQk1sYZIjxVsuyfTQiwAAA"
+          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC7AB6WV815WGRwffvgAPr+cKSWgZjQZjPwK8XHAls1BO++UDhiYthR1G+IxOkxG3H5XwVbDsQA"
         }
       ]
     },
@@ -1402,22 +1329,30 @@
       "images": [
         {
           "id": "hero",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "CAM-001_PPP.jpg",
+          "originalWidth": 3240,
+          "originalHeight": 3240,
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/riyadh-villa/hero-480.webp"
+            },
+            {
+              "width": 1280,
+              "path": "projects/riyadh-villa/hero-1280.webp"
+            },
+            {
+              "width": 1920,
+              "path": "projects/riyadh-villa/hero-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABgAPwVyrFArpyQisAwBcCCJZQDMHCHMZTxM05wntvyzbirUMBAAAP6dZQOufXx/C49TvmFirS/CboDM3RZN/RY4Qy/tfcOf89HnNHNFsszl8uPdZHFbsM2hQVyGU0dFOzHA0gmAAA=="
+          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYABgAPxF0tFMsJiUisBgIAYAiCUAW2QG7D9sPYzgZD24YtknFAORcpqZFxPAA/dFSceBODMpyzEtrzRbrIu1KGsSG2ejEupbTR06Poy/CD74OoXJqY9zcroLYMnu4KIiNGSMD7rTAQ5f1BXfJGdx1AAA="
         },
         {
           "id": "img-001",
-          "originalWidth": 2160,
-          "originalHeight": 2160,
-          "originalName": "CAM-011_PP.jpg",
+          "originalWidth": 3240,
+          "originalHeight": 3240,
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
@@ -1432,13 +1367,13 @@
               "path": "projects/riyadh-villa/img-001-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASoYABgAPxF8t1QsJ6UjKAqpgCIJZwDI1BGbHA+mz6ltBsmTZmO7kc37PVujQAD+fby/JiD8ZB18tqZ7Qbs7I20/R7eQhiLPFZ7xm2sQB9imb6vKefHWOgAD4DwQqQIHl0Q4GQAA"
+          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABgAPxF8r1KsJ6SiqA1RgCIJQBgbgdtApu7ZNVSmK6MgLAD3Ho5A23arhbER1++G4qgorwIqZEmBqF7/2A4CKvrikiGsY1c27qh8T3bBtVqldkAAAA=="
         },
         {
           "id": "img-002",
           "originalWidth": 3240,
           "originalHeight": 3240,
-          "originalName": "CAM-01_PP.jpg",
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
@@ -1453,13 +1388,13 @@
               "path": "projects/riyadh-villa/img-002-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYABgAPxF0tFMsJiUisBgIAYAiCUAW2QG7D9sPYzgZD24YtknFAORcpqZFxPAA/dFSceBODMpyzEtrzRbrIu1KGsSG2ejEupbTR06Poy/CD74OoXJqY9zcroLYMnu4KIiNGSMD7rTAQ5f1BXfJGdx1AAA="
+          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBACdASoYABgAPwl0slArpyUisBgMAXAhCWUAv+wPH0fQy2nnyVzvzqyAAPxPp5lqNLtcOH+reHomqmsjEvE1fnCEC3YaGCPbdd42Asor4Zy+T1QAAA=="
         },
         {
           "id": "img-003",
-          "originalWidth": 2160,
-          "originalHeight": 2160,
-          "originalName": "CAM-022_PP.jpg",
+          "originalWidth": 3240,
+          "originalHeight": 3240,
+          "originalName": "4.jpg",
           "variants": [
             {
               "width": 480,
@@ -1474,26 +1409,34 @@
               "path": "projects/riyadh-villa/img-003-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF2slAsJ6SisAgBgCIJYgDDNGlpSKiP3hPJCew0x7LLpuAWvOiJcAD+lDMmjKzxuvy/pmvfBtz3Bur5ypPGNkiUOHmtldCdJG+rsDfVHo2u0jR9naURDankUov/FgQcAAA="
+          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwBACdASoYABgAPv1qq1ArJiQit/qoAWAfiWUAzUgbkIr51yHPngCCm2a0LK0uCAAA/t7oPlb5SFR745bBHpP1bJKwp3S+nsbclPznAhKiCOmtR46VaL8auQAAAA=="
         },
         {
           "id": "img-004",
-          "originalWidth": 1080,
-          "originalHeight": 1080,
-          "originalName": "CAM-02_PP.jpg",
+          "originalWidth": 3240,
+          "originalHeight": 3240,
+          "originalName": "5.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/riyadh-villa/img-004-480.webp"
+            },
+            {
+              "width": 1280,
+              "path": "projects/riyadh-villa/img-004-1280.webp"
+            },
+            {
+              "width": 1920,
+              "path": "projects/riyadh-villa/img-004-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPw1osFAsJaSit/VYAYAhiWUAwNwPSuneoBSovs9a//3Pm8rnBZ4AAP7qls6XkzhiNAxawNrikV7uSUlQGaP6SV0rxG6jQvSpeOxBByB+EpMHd6UVtqMXHh3MQAA="
+          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYABgAPxF+t1UsJ6UjKAgBgCIJQBbfbIA1PzBq20CP9dzISvbiMDPUcU8yU2gA/M+93741TMMvyPGvwRmBY4B5oJf2gJ78Pt1nzHrfevP+50d5pqqHRrGbYyxfNr0nhANmVfK9z42l8HAA"
         },
         {
           "id": "img-005",
-          "originalWidth": 2160,
-          "originalHeight": 2160,
-          "originalName": "CAM-033_PP.jpg",
+          "originalWidth": 3240,
+          "originalHeight": 3240,
+          "originalName": "6.jpg",
           "variants": [
             {
               "width": 480,
@@ -1508,51 +1451,39 @@
               "path": "projects/riyadh-villa/img-005-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPxF2tFIsJyUisBgIAYAiCWUAzYQ0hP2ucUq7TVEZa6wdJFL5X7aXwAD9ufO8eIRZwxuKN4jEtQVudrJvqhcWKx3WMPKqizTm20QHN/x7+xHlJ09a0Ss1hCJ3gpI3QvtUAIAAAA=="
+          "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASoYABgAPv1wsFArJyUisAwBYB+JYwDH5B6AJAQmTgzMcseqBnFjKbNaAAD+KzEgHc1+rUOeROcoqNfqvX/xXVOA1NJqtHxVcNhMLFCQp0GsLeiNNP6b0xYZWp7EwEJWyoAAAA=="
         },
         {
           "id": "img-006",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "CAM-03_PP.jpg",
+          "originalWidth": 1080,
+          "originalHeight": 1080,
+          "originalName": "7.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/riyadh-villa/img-006-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/riyadh-villa/img-006-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/riyadh-villa/img-006-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYABgAPxF+t1UsJ6UjKAgBgCIJQBbfbIA1PzBq20CP9dzISvbiMDPUcU8yU2gA/M+93741TMMvyPGvwRmBY4B5oJf2gJ78Pt1nzHrfevP+50d5pqqHRrGbYyxfNr0nhANmVfK9z42l8HAA"
+          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABgAPwVyrFArpyQisAwBcCCJZQDMHCHMZTxM05wntvyzbirUMBAAAP6dZQOufXx/C49TvmFirS/CboDM3RZN/RY4Qy/tfcOf89HnNHNFsszl8uPdZHFbsM2hQVyGU0dFOzHA0gmAAA=="
         },
         {
           "id": "img-007",
-          "originalWidth": 1400,
-          "originalHeight": 884,
-          "originalName": "CAM-04_PP.jpg",
+          "originalWidth": 1080,
+          "originalHeight": 1080,
+          "originalName": "8.jpg",
           "variants": [
             {
               "width": 480,
               "path": "projects/riyadh-villa/img-007-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/riyadh-villa/img-007-1280.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYAA8APxF2slEsJySisAgBgCIJZQCw7Be+oyKA1SO7gAD8jIAYp5jrXwn4utlE3N/8haeo3qTsCwHhkp8IoZdMwDT6/wAA"
+          "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPw1osFAsJaSit/VYAYAhiWUAwNwPSuneoBSovs9a//3Pm8rnBZ4AAP7qls6XkzhiNAxawNrikV7uSUlQGaP6SV0rxG6jQvSpeOxBByB+EpMHd6UVtqMXHh3MQAA="
         },
         {
           "id": "img-008",
           "originalWidth": 1080,
           "originalHeight": 1080,
-          "originalName": "CAM-04_PPp.jpg",
+          "originalName": "9.jpg",
           "variants": [
             {
               "width": 480,
@@ -1563,9 +1494,9 @@
         },
         {
           "id": "img-009",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "CAM-10_PP.jpg",
+          "originalWidth": 2160,
+          "originalHeight": 2160,
+          "originalName": "CAM-011_PP.jpg",
           "variants": [
             {
               "width": 480,
@@ -1580,13 +1511,13 @@
               "path": "projects/riyadh-villa/img-009-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASoYABgAPv1wsFArJyUisAwBYB+JYwDH5B6AJAQmTgzMcseqBnFjKbNaAAD+KzEgHc1+rUOeROcoqNfqvX/xXVOA1NJqtHxVcNhMLFCQp0GsLeiNNP6b0xYZWp7EwEJWyoAAAA=="
+          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASoYABgAPxF8t1QsJ6UjKAqpgCIJZwDI1BGbHA+mz6ltBsmTZmO7kc37PVujQAD+fby/JiD8ZB18tqZ7Qbs7I20/R7eQhiLPFZ7xm2sQB9imb6vKefHWOgAD4DwQqQIHl0Q4GQAA"
         },
         {
           "id": "img-010",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "CAM-11_PP.jpg",
+          "originalWidth": 2160,
+          "originalHeight": 2160,
+          "originalName": "CAM-022_PP.jpg",
           "variants": [
             {
               "width": 480,
@@ -1601,13 +1532,13 @@
               "path": "projects/riyadh-villa/img-010-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABgAPxF8r1KsJ6SiqA1RgCIJQBgbgdtApu7ZNVSmK6MgLAD3Ho5A23arhbER1++G4qgorwIqZEmBqF7/2A4CKvrikiGsY1c27qh8T3bBtVqldkAAAA=="
+          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF2slAsJ6SisAgBgCIJYgDDNGlpSKiP3hPJCew0x7LLpuAWvOiJcAD+lDMmjKzxuvy/pmvfBtz3Bur5ypPGNkiUOHmtldCdJG+rsDfVHo2u0jR9naURDankUov/FgQcAAA="
         },
         {
           "id": "img-011",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "CAM-14_PP.jpg",
+          "originalWidth": 2160,
+          "originalHeight": 2160,
+          "originalName": "CAM-033_PP.jpg",
           "variants": [
             {
               "width": 480,
@@ -1622,49 +1553,7 @@
               "path": "projects/riyadh-villa/img-011-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBACdASoYABgAPwl0slArpyUisBgMAXAhCWUAv+wPH0fQy2nnyVzvzqyAAPxPp5lqNLtcOH+reHomqmsjEvE1fnCEC3YaGCPbdd42Asor4Zy+T1QAAA=="
-        },
-        {
-          "id": "img-012",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "CAM-16_PP.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/riyadh-villa/img-012-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/riyadh-villa/img-012-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/riyadh-villa/img-012-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwBACdASoYABgAPv1qq1ArJiQit/qoAWAfiWUAzUgbkIr51yHPngCCm2a0LK0uCAAA/t7oPlb5SFR745bBHpP1bJKwp3S+nsbclPznAhKiCOmtR46VaL8auQAAAA=="
-        },
-        {
-          "id": "img-013",
-          "originalWidth": 3240,
-          "originalHeight": 3240,
-          "originalName": "COVER_CAM-001_PP.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/riyadh-villa/img-013-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/riyadh-villa/img-013-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/riyadh-villa/img-013-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASoYABgAPw1yslAsJyUisBgMAYAhiWUAuwAQN9QqnASdI+0F3ageF24sNfQAAP5US1FpZGm4tzamxemalRHT1+XKFvr+6CwfGGhGKUFcCgzArrkIgAS1Cnvx+jb4/98g/GioDO0XrEf8AAAA"
+          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPxF2tFIsJyUisBgIAYAiCWUAzYQ0hP2ucUq7TVEZa6wdJFL5X7aXwAD9ufO8eIRZwxuKN4jEtQVudrJvqhcWKx3WMPKqizTm20QHN/x7+xHlJ09a0Ss1hCJ3gpI3QvtUAIAAAA=="
         }
       ]
     },
@@ -1860,14 +1749,14 @@
           "id": "hero",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "1-SODIC.png",
+          "originalName": "1.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/hero-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBQCdASoYAB4APxF8t1QsJ6UjKAqpgCIJZQDBzC7s8l2T9SlhM1bYCUgYmM9SIs0AAP7kE7we1yeEfQYhMahxJjbHEWRfzAL4hYf0J+3J2dZ8uQN42Mx+xsH+3YFu+J7MccsIuXOEFiSeLHQY4E9+AAA="
+          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBQCdASoYAB4APxFss1AsJaSisBgMAYAiCWcAzjgyx4DxCX7Rx5CE6IufCmeYv9lpTAAA/IKgoTg4SQxPFh54aoa6aPkMFzL9pPMK5xiw4b0WpqHEK1jY+mBDS9lo5OEqS9M9pre8AAAA"
         },
         {
           "id": "img-001",
@@ -1886,92 +1775,79 @@
           "id": "img-002",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "3-SODIC.png",
+          "originalName": "2.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-002-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASoYAB4APxF2sFAsJ6SisBgMAYAiCWUAxzBXtf87d4scyKTzN881aIILkjGQAP3/ZL+TBWFTJUlmiLIMVtRNDD9fcH8g8h/ocFRuuytFLeyaJh0SrOmTJUhxbJtCSMo9thtpEp9oCksNAAAA"
+          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBQCdASoYAB4APxF2tFEsJyUiqA1RgCIJZwDE2EXTkrdMU7/YDI7W0W49ox3ROGoAAP2XAatwZ2j9FJjsz3uxfAdpDJW6Jwi3tqWf5+0FVhWiUPemT5wtdR7G7W4eM5KBh9C+daOnKwawQAA="
         },
         {
           "id": "img-003",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "4-SODIC.png",
+          "originalName": "3-SODIC.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-003-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBQCdASoYAB4APxF2sFCsJ6SisAgBgCIJZwDKACELvt6NL3qDeOUUD5gx5Fn5DiuTEmbUAAD+Jd0JUX4NFLdLKH/musSt4U3SHR5mWt3wXW8deb+qbE104hyYv07ClZrQsEgZU5qGg8IFQAA="
+          "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASoYAB4APxF2sFAsJ6SisBgMAYAiCWUAxzBXtf87d4scyKTzN881aIILkjGQAP3/ZL+TBWFTJUlmiLIMVtRNDD9fcH8g8h/ocFRuuytFLeyaJh0SrOmTJUhxbJtCSMo9thtpEp9oCksNAAAA"
         },
         {
           "id": "img-004",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "5-SODIC.png",
+          "originalName": "3.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-004-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASoYAB4APw1ur1AsJiQit/VYAYAhiWUAvzhCRuQxj8RG/Al6Y5iAXgslDFnAAP6DLVW9CobtJCECWmEcDfCRwsVz+YUPY1Cz/aiG8QOY0yjj16bkH9DTJYl8s+uwr1xQ7L4nfPIEYAAAAA=="
+          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoYAB4APxFys1CsJqSiqA1RgCIJZwC7ACxwG+4EBZvFrP9IUeLIAKt+u+dtJ7C3lsSIbPnbv0RAekLEDIX8CSmyG0dx3FwZWeKTjfvO+DSJgzTW8Z4mUFEHEQw9xYNDtLZYAAAA"
         },
         {
           "id": "img-005",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "COVER_Cam01_sodic_reception.png",
+          "originalName": "4-SODIC.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-005-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBQCdASoYAB4APxFss1AsJaSisBgMAYAiCWcAzjgyx4DxCX7Rx5CE6IufCmeYv9lpTAAA/IKgoTg4SQxPFh54aoa6aPkMFzL9pPMK5xiw4b0WpqHEK1jY+mBDS9lo5OEqS9M9pre8AAAA"
+          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBQCdASoYAB4APxF2sFCsJ6SisAgBgCIJZwDKACELvt6NL3qDeOUUD5gx5Fn5DiuTEmbUAAD+Jd0JUX4NFLdLKH/musSt4U3SHR5mWt3wXW8deb+qbE104hyYv07ClZrQsEgZU5qGg8IFQAA="
         },
         {
           "id": "img-006",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "Cam02_sodic_reception.png",
+          "originalName": "4.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-006-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBQCdASoYAB4APxF2tFEsJyUiqA1RgCIJZwDE2EXTkrdMU7/YDI7W0W49ox3ROGoAAP2XAatwZ2j9FJjsz3uxfAdpDJW6Jwi3tqWf5+0FVhWiUPemT5wtdR7G7W4eM5KBh9C+daOnKwawQAA="
+          "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBQCdASoYAB4APxF2rVGsJyQisBgMAYAiCWUAwzQNr3VexbwfZzw2cc9DPTDc/czQgAD9l8iW6l7568MuXIi8TdV2gZfAFDPp28S4YY8M8mtZG1AQ06mgoTrOAj+Dde2Cp+c5NQzZypFsGqIgcDy/tdaKGng3A6fJsGC3C2gKBAkAAAA="
         },
         {
           "id": "img-007",
           "originalWidth": 1080,
           "originalHeight": 1350,
-          "originalName": "Posts 34 (1).png",
+          "originalName": "5-SODIC.png",
           "variants": [
             {
               "width": 480,
               "path": "projects/sodic/img-007-480.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoYAB4APxFys1CsJqSiqA1RgCIJZwC7ACxwG+4EBZvFrP9IUeLIAKt+u+dtJ7C3lsSIbPnbv0RAekLEDIX8CSmyG0dx3FwZWeKTjfvO+DSJgzTW8Z4mUFEHEQw9xYNDtLZYAAAA"
-        },
-        {
-          "id": "img-008",
-          "originalWidth": 1080,
-          "originalHeight": 1350,
-          "originalName": "Posts 34.png",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/sodic/img-008-480.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBQCdASoYAB4APxF2rVGsJyQisBgMAYAiCWUAwzQNr3VexbwfZzw2cc9DPTDc/czQgAD9l8iW6l7568MuXIi8TdV2gZfAFDPp28S4YY8M8mtZG1AQ06mgoTrOAj+Dde2Cp+c5NQzZypFsGqIgcDy/tdaKGng3A6fJsGC3C2gKBAkAAAA="
+          "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASoYAB4APw1ur1AsJiQit/VYAYAhiWUAvzhCRuQxj8RG/Al6Y5iAXgslDFnAAP6DLVW9CobtJCECWmEcDfCRwsVz+YUPY1Cz/aiG8QOY0yjj16bkH9DTJYl8s+uwr1xQ7L4nfPIEYAAAAA=="
         }
       ]
     },
@@ -2146,7 +2022,7 @@
           "id": "hero",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_BATHROOM_L.jpg",
+          "originalName": "1.jpg",
           "variants": [
             {
               "width": 480,
@@ -2161,13 +2037,13 @@
               "path": "projects/upvill/hero-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxF4tFGsJyUisAgBgCIJYwC7ABoebkUEUW0oP4gAAP7lbvxviKzfY0QNAHbYQYAtAUrGWADeL1280jlLdeOlSq6rVlscVxi7OxxuNVkcAAA="
+          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoYAA4APxF2sVCsJySisAgBgCIJZwC/7BuOQ+tV+mJjeAD+tZfl+wx1FrFqdq8eY1TLVclLcUR3HShEBtH1e+X5OnXC6CiBMAA="
         },
         {
           "id": "img-001",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_BEDROOM_L.jpg",
+          "originalName": "2.jpg",
           "variants": [
             {
               "width": 480,
@@ -2182,13 +2058,13 @@
               "path": "projects/upvill/img-001-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZwDE2BZRLfyWjIQaJmAA/ujxEbTY0jPLXBuFZfLujh+mjIgM7oPqVcZFwZypMe+QFWDjuddmq6DM5AAAAA=="
+          "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQC7AA/b15M+ZQAA+/Oo9EjSH4hcBDJhkdNpLtToKxFVJrcEfWfrfuhrmRqrQASMAA=="
         },
         {
           "id": "img-002",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_FF-BALCONY_L.jpg",
+          "originalName": "22.jpg",
           "variants": [
             {
               "width": 480,
@@ -2203,13 +2079,13 @@
               "path": "projects/upvill/img-002-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoYAA4APxFysVAsJqSisAgBgCIJQBdgAybuQW/9WBiKsAAA/o3Kob9aVq+8PLVgiGPEdhFkKrYHVbbqZ0oNLG1tAQgWmGj+8LALEESrz/p0neEYOdEAAA=="
+          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC7ACDpcnElJ4ednEkIAP7AamNq1UEo8l59IcvapZRm1zHnoO/802lx8TmDPEuYH4IwqZ1u73vcrklxVUNqAAA="
         },
         {
           "id": "img-003",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_FF_RECEPTION_L.jpg",
+          "originalName": "3.jpg",
           "variants": [
             {
               "width": 480,
@@ -2224,13 +2100,13 @@
               "path": "projects/upvill/img-003-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJQBdgAx2/oL1oKjObssgAAP7o6NrgG+5tdtUDxQ6qidhP9HglrIsoclSp7Ra1AXj1cZPmBkc4bYAA"
+          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZwDCgBEmH3B0mxwAziLsm2fsO3W+ZqV9l5oC9dc/2vWt+m2RJ6zXT3UyjEPniZIeCWHThkwAAA=="
         },
         {
           "id": "img-004",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_GF-BALCONY_L.jpg",
+          "originalName": "4.jpg",
           "variants": [
             {
               "width": 480,
@@ -2245,13 +2121,13 @@
               "path": "projects/upvill/img-004-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCuHBhvpQ/1iHmicAD7w/mbjZ2wYNgXZqT0O/MkOF/6UiS+bBwNUeziNrNUnyJetCLN2t2gxqlgAAA="
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQDKABhoj1XO5Cv7AAD+e/34w4l3w+PYdS1Fkmd0Ht6hUo9Fkoj/PoPlQnrLgIreH5yYOPnA68eQAAA="
         },
         {
           "id": "img-005",
           "originalWidth": 1920,
-          "originalHeight": 1920,
-          "originalName": "CAM-01_GUEST-TOILET_L.jpg",
+          "originalHeight": 1080,
+          "originalName": "5.jpg",
           "variants": [
             {
               "width": 480,
@@ -2266,13 +2142,13 @@
               "path": "projects/upvill/img-005-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASoYABgAPwlurVArpqQit/VYAXAhCWcAyFwPCiA2SoYgkHh6r9Vjwkn5YqkAAPsT8dk6iGBei4AWuCCwfpIUFMh02hGg8DcQp06i5A1iGv64XszYgpW3OzKcIK6AAAAA"
+          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoYAA4APxFysFAsJqSisAgBgCIJZwC/OBY9qmypZef3SAAA/ASeQANmzjhxnXq4JxwfyOpLpXlEQ3NO63hiwH9l7zfgl/bPjWt8PkGA0LzrUJFgAAA="
         },
         {
           "id": "img-006",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_KITCHEN_L.jpg",
+          "originalName": "5x.jpg",
           "variants": [
             {
               "width": 480,
@@ -2287,13 +2163,13 @@
               "path": "projects/upvill/img-006-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC7ACDpcnElJ4ednEkIAP7AamNq1UEo8l59IcvapZRm1zHnoO/802lx8TmDPEuYH4IwqZ1u73vcrklxVUNqAAA="
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZQCuHBhDCvfzQsBJAAD9hv8DOJU8KLVUIkN0zYbEkXIG15UgsccT43pxzIL2W32ujF+aaFp2w9sAAAA="
         },
         {
           "id": "img-007",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_MASTER-BATHROOM_L.jpg",
+          "originalName": "6.jpg",
           "variants": [
             {
               "width": 480,
@@ -2308,13 +2184,13 @@
               "path": "projects/upvill/img-007-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF2sVAsJ6SisAgBgCIJZwDKABI0qj29zwX3R1K8AP7pxH6hoRrIejJ8P669i6pa6AFRHyW/k9Z8Bpu7JgBF4T1RAAA="
+          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwCdAGBulzw68awqXmfEAP7R2nADSzTBKS7uDj+IRiIDyb0wJQ/bYPLww30Ew/NkK9Oe4jnZo3AUAAA="
         },
         {
           "id": "img-008",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-01_RECEPTION_L.jpg",
+          "originalName": "7.jpg",
           "variants": [
             {
               "width": 480,
@@ -2329,13 +2205,13 @@
               "path": "projects/upvill/img-008-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQC7AA/b15M+ZQAA+/Oo9EjSH4hcBDJhkdNpLtToKxFVJrcEfWfrfuhrmRqrQASMAA=="
+          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQAAW+wbqyKcpH4vTsoAAP6h595+UwOUttk8/KJDi6Bt191AW3LArdZYN76OiqVenUXwzWmQAAAA"
         },
         {
           "id": "img-009",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-02_FF-BALCONY_L.jpg",
+          "originalName": "7x.jpg",
           "variants": [
             {
               "width": 480,
@@ -2350,13 +2226,13 @@
               "path": "projects/upvill/img-009-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxF4tFGsJyUisAgBgCIJQBdgC/37Hv+uDOW3LAAA+Xvxz2Io5ry/Loxe90DaobE+KwPYA3FS5drNeI+4zeFmJXGC56NqLQg6SMWbSiAA"
+          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdAA8C5y0+YvZ1ogAA/rNOsyPu2eZL3p9NtB0VkNu43CmxZ34OSi7HvjphvZjDpvFBgBHF7xPMZDAAAA=="
         },
         {
           "id": "img-010",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-02_FF_RECEPTION_L.jpg",
+          "originalName": "8.jpg",
           "variants": [
             {
               "width": 480,
@@ -2371,13 +2247,13 @@
               "path": "projects/upvill/img-010-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYAA4APxFysFAsJqSisAgBgCIJYwCdACHOY/P2Qe6h2QfYAAD9SZDWJ9zHDARCCGRJEC3IFTXnmoNXjUXwi7IdX/gUAAAA"
+          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoYAA4APxF0sFCsJqSisAgBgCIJZwDE2CG9e1aU+2/zFpKzAAD5aosB+kmnjC7gb51J1YgBrEy+LWusRN1Gx6vn2iMMTqMAAAA="
         },
         {
           "id": "img-011",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-02_GF-BALCONY_L.jpg",
+          "originalName": "CAM-03_FF_RECEPTION_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -2392,13 +2268,13 @@
               "path": "projects/upvill/img-011-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYAA4ALtGIxGIkLCwsDADQSgCdMoAFciW+wa0nndYh8AD9shsl4ys7UaUw9F31GWn/py5KSG+dgc4KnS5q2/L7iG1STyTQZYf0WS78VpPEgAAA"
+          "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYgCdMvII9IkECVS23HCr4gAA/u+lz+5nWLMg+UFDRT6zaxAavibSDoegE9nKy+juOPWjpIvZvB6+jkjnD0ZlAg0g9IAA"
         },
         {
           "id": "img-012",
           "originalWidth": 1920,
-          "originalHeight": 1920,
-          "originalName": "CAM-02_GUEST-TOILET_L.jpg",
+          "originalHeight": 1080,
+          "originalName": "CAM-04_GF-BALCONY_L.jpg",
           "variants": [
             {
               "width": 480,
@@ -2413,13 +2289,13 @@
               "path": "projects/upvill/img-012-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQBACdASoYABgAPwFwrVArJySisAwBYCAJYwCtaBawcAqksn/vrR0RpAlVhjSFAAD4UFGIw+zqTCPCvjVnQiFSE5y+UOZuA36zV9miuqjrxK/r2nPXP4+dKvHVETNMK0XL9HSjshXM/Ftv1nuz4ZCic1MW3YoAAAA="
+          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwDCgB3+MQNeXt3AAP3fQWGEETAc7XA8wPiGfxsz8NKEDzy6c8Xd644mR3FeKbhm6v8gDaEmxIAA"
         },
         {
           "id": "img-013",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-02_RECEPTION_L.jpg",
+          "originalName": "GF_RECEPTION-02.jpg",
           "variants": [
             {
               "width": 480,
@@ -2434,13 +2310,13 @@
               "path": "projects/upvill/img-013-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdAA8C5y0+YvZ1ogAA/rNOsyPu2eZL3p9NtB0VkNu43CmxZ34OSi7HvjphvZjDpvFBgBHF7xPMZDAAAA=="
+          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwDCgB08Clb7hfEe2QAA/Xc0Q2LYQfOPL6mt5z8Exhc0z5SKtyXHFujLxYcd/LFD01hW/FzgVJIFlSWTTKAA"
         },
         {
           "id": "img-014",
           "originalWidth": 1920,
           "originalHeight": 1080,
-          "originalName": "CAM-03_BEDROOM_L.jpg",
+          "originalName": "GF_RECEPTION-04.jpg",
           "variants": [
             {
               "width": 480,
@@ -2455,540 +2331,9 @@
               "path": "projects/upvill/img-014-1920.webp"
             }
           ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC2yBih1wHFgA+AAP28X+VsqZjDJGGXvPLuStdVSOJbf+N/VgS4/TednFcNVkK/tQnZ0QmIvf9gpqHDbAAA"
-        },
-        {
-          "id": "img-015",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-03_FF-BALCONY_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-015-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-015-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-015-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwCw7A3u6CBbiwoAAPzTs6CNhXXdc9PZPHYKM1PW3rfstJ+Z+yzqAp120dgHgLSnzeJlXhXAOSQAAAA="
-        },
-        {
-          "id": "img-016",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-03_FF_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-016-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-016-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-016-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYgCdMvII9IkECVS23HCr4gAA/u+lz+5nWLMg+UFDRT6zaxAavibSDoegE9nKy+juOPWjpIvZvB6+jkjnD0ZlAg0g9IAA"
-        },
-        {
-          "id": "img-017",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-03_GF-BALCONY_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-017-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-017-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-017-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxFysVAsJqSisAgBgCIJYwCdABghQvg846ilCsAA/quUAkKOubg4MqEhMdr05RzcnUcX5AVAKMFLwkNfcTE8GlBAumIAAA=="
-        },
-        {
-          "id": "img-018",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-03_KITCHEN_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-018-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-018-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-018-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDA3CKJHmB19whXP3EfAAD+4u0fBaCJAg1CCzeeumz9K6S4mMUabYacdqOBmo4PMFjzG+kiL6AA"
-        },
-        {
-          "id": "img-019",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-03_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-019-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-019-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-019-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZQCuHBhDCvfzQsBJAAD9hv8DOJU8KLVUIkN0zYbEkXIG15UgsccT43pxzIL2W32ujF+aaFp2w9sAAAA="
-        },
-        {
-          "id": "img-020",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-04_BEDROOM_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-020-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-020-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-020-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoYAA4ALtGIxGIkLCwsDADQSygE6AG6Nd6WZDRaadI4AAD+yqgcdDGFOIiRtYeVmkgRbEsjbrTJzCWMrNiHlERqxJC410wzvTWQAAAA"
-        },
-        {
-          "id": "img-021",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-04_FF-BALCONY_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-021-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-021-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-021-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQCsACHfjwK7u7LfyXwA/sAmTF9UZh0H/0khhldjJC+28RfspUvu24JEYAAA"
-        },
-        {
-          "id": "img-022",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-04_FF_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-022-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-022-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-022-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwCsACPmuhC6P3wOPgAA/qvavAiNs0CvzYVk5B1skVknWOsEBs3Qs9qG1KOwH74GsozdlcxseHgAAAA="
-        },
-        {
-          "id": "img-023",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-04_GF-BALCONY_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-023-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-023-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-023-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwDCgB3+MQNeXt3AAP3fQWGEETAc7XA8wPiGfxsz8NKEDzy6c8Xd644mR3FeKbhm6v8gDaEmxIAA"
-        },
-        {
-          "id": "img-024",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-04_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-024-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-024-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-024-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoYAA4APxF2sVCsJySisAgBgCIJZwC/7BuOQ+tV+mJjeAD+tZfl+wx1FrFqdq8eY1TLVclLcUR3HShEBtH1e+X5OnXC6CiBMAA="
-        },
-        {
-          "id": "img-025",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-05_FF_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-025-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-025-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-025-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJQBOgAgKc5zq0C+AA+3+qpkycJxMGf/PS9sWiK+Tl4mVM3QU6dz3uOn3jiEWO/lcHwaAA"
-        },
-        {
-          "id": "img-026",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-05_GF-BALCONY.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-026-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-026-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-026-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZwABFj+BxCkuDgAA/vhtGfapEYxabMrethnH1iKrdK6j1M1uGGxKJqgCncOAAAA="
-        },
-        {
-          "id": "img-027",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-05_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-027-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-027-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-027-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwCdAGBulzw68awqXmfEAP7R2nADSzTBKS7uDj+IRiIDyb0wJQ/bYPLww30Ew/NkK9Oe4jnZo3AUAAA="
-        },
-        {
-          "id": "img-028",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-06_FF-BALCONY_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-028-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-028-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-028-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwAAetCU8gAA/u0cPo1tofItpfUBLwUg99eroLAAAA=="
-        },
-        {
-          "id": "img-029",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-06_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-029-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-029-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-029-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQAAW+wbqyKcpH4vTsoAAP6h595+UwOUttk8/KJDi6Bt191AW3LArdZYN76OiqVenUXwzWmQAAAA"
-        },
-        {
-          "id": "img-030",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-07_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-030-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-030-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-030-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoYAA4APxF0sFCsJqSisAgBgCIJZwDE2CG9e1aU+2/zFpKzAAD5aosB+kmnjC7gb51J1YgBrEy+LWusRN1Gx6vn2iMMTqMAAAA="
-        },
-        {
-          "id": "img-031",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-08_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-031-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-031-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-031-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZwDCgBEmH3B0mxwAziLsm2fsO3W+ZqV9l5oC9dc/2vWt+m2RJ6zXT3UyjEPniZIeCWHThkwAAA=="
-        },
-        {
-          "id": "img-032",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-09_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-032-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-032-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-032-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZQCzgCIe8GarL8hTKvMwAP653w1K6SCVgg3lyIsEBxKxOPrtilR+B4W4GkWUC9wQAA=="
-        },
-        {
-          "id": "img-033",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "CAM-10_RECEPTION_L.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-033-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-033-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-033-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoYAA4APxFysFAsJqSisAgBgCIJZwC/OBY9qmypZef3SAAA/ASeQANmzjhxnXq4JxwfyOpLpXlEQ3NO63hiwH9l7zfgl/bPjWt8PkGA0LzrUJFgAAA="
-        },
-        {
-          "id": "img-034",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "GF_RECEPTION-01.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-034-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-034-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-034-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQDKABhoj1XO5Cv7AAD+e/34w4l3w+PYdS1Fkmd0Ht6hUo9Fkoj/PoPlQnrLgIreH5yYOPnA68eQAAA="
-        },
-        {
-          "id": "img-035",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "GF_RECEPTION-02.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-035-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-035-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-035-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwDCgB08Clb7hfEe2QAA/Xc0Q2LYQfOPL6mt5z8Exhc0z5SKtyXHFujLxYcd/LFD01hW/FzgVJIFlSWTTKAA"
-        },
-        {
-          "id": "img-036",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "GF_RECEPTION-03.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-036-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-036-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-036-1920.webp"
-            }
-          ],
-          "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF0sFAsJySisAgBgCIJZQDG9Bm+7r8JYAp1eJ9cIAD9wRYn+NYjL9S7UTis9ipC62nFpIMzj7qBUgvYsZjkKqnEz2U1JAAA"
-        },
-        {
-          "id": "img-037",
-          "originalWidth": 1920,
-          "originalHeight": 1080,
-          "originalName": "GF_RECEPTION-04.jpg",
-          "variants": [
-            {
-              "width": 480,
-              "path": "projects/upvill/img-037-480.webp"
-            },
-            {
-              "width": 1280,
-              "path": "projects/upvill/img-037-1280.webp"
-            },
-            {
-              "width": 1920,
-              "path": "projects/upvill/img-037-1920.webp"
-            }
-          ],
           "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZQCzgBrOig40DYa/QAD+5D8R0w99N8H9BtiXtHulUCRYkLdNbJxYtuQoT3at/iyn+kGMPLwittD3QppPznAoxTVnXGszOeUQ4AAA"
         }
       ]
     }
-  },
-  "hero": [
-    {
-      "id": "about",
-      "originalWidth": 4160,
-      "originalHeight": 1500,
-      "originalName": "about.jpeg",
-      "variants": [
-        {
-          "width": 768,
-          "path": "hero/about-768.webp"
-        },
-        {
-          "width": 1280,
-          "path": "hero/about-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "hero/about-1920.webp"
-        },
-        {
-          "width": 2560,
-          "path": "hero/about-2560.webp"
-        },
-        {
-          "width": 4160,
-          "path": "hero/about-4160.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAwCdASoYAAkALtGIxGIkLCwsDADQSygABi7pRV+gm2Zi9AAAylghHKj/d7267S7ZdwuG7gA="
-    },
-    {
-      "id": "intro",
-      "originalWidth": 1080,
-      "originalHeight": 1350,
-      "originalName": "intro.png",
-      "variants": [
-        {
-          "width": 768,
-          "path": "hero/intro-768.webp"
-        },
-        {
-          "width": 1080,
-          "path": "hero/intro-1080.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoYAB4APxFys1CsJqSiqA1RgCIJZwC7ACxwG+4EBZvFrP9IUeLIAKt+u+dtJ7C3lsSIbPnbv0RAekLEDIX8CSmyG0dx3FwZWeKTjfvO+DSJgzTW8Z4mUFEHEQw9xYNDtLZYAAAA"
-    }
-  ]
+  }
 }

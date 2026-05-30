@@ -55,9 +55,9 @@ const PROJECT_META: Record<
     blurb:
       "A pied-à-terre composed in chalk, walnut, and brushed brass — daylight is treated as the principal material.",
   },
-  "Madenaty": {
-    slug: "madenaty",
-    title: "Madenaty",
+  "Madinaty": {
+    slug: "madinaty",
+    title: "Madinaty",
     discipline: "Residential · Two units",
     location: "Madinaty, Egypt",
     year: "2024",
@@ -171,7 +171,7 @@ async function ensureDir(p: string) {
 }
 
 async function listImages(dir: string): Promise<string[]> {
-  // Recursive walk to capture nested unit subfolders (Madenaty has them).
+  // Recursive walk to capture nested unit subfolders (Madinaty has them).
   const out: string[] = [];
   async function walk(d: string) {
     const entries = await fs.readdir(d, { withFileTypes: true });

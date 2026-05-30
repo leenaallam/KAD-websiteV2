@@ -123,19 +123,6 @@
         }
       ],
       "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPvViqlAqpaQit+gBUB6JZwDKADJFCm4ts+J5/9PgqPL5OgVBDHM+AAD+7o48gZMBnE/6LiZalSBDzkXB+DBHE4LwvQ246CeV2HpuiwjhnokRa+Y55mHQ2Heq1FxkPF9RHYgAAA=="
-    },
-    {
-      "id": "img-009",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "CAM08_VILLA-HAMDY_0.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/villa-hamdy/img-009-480.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQBACdASoYABgAPxF2sVGsJySiqA1RgCIJZwC5IA9iPgQtiY3UGfMmNI/r7g/0ZAD+u84vMEnQ+FB5XSC3vvuW6KzxX3g145vD2zZSPNP6XFuWEqj2OEwj/sbSLBybmegx9k8Ls+tmSWTmRDAStmdjpwO4IAAA"
     }
   ]
 }

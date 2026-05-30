@@ -11,7 +11,7 @@
       "id": "hero",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_BATHROOM_L.jpg",
+      "originalName": "1.jpg",
       "variants": [
         {
           "width": 480,
@@ -26,13 +26,13 @@
           "path": "projects/upvill/hero-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxF4tFGsJyUisAgBgCIJYwC7ABoebkUEUW0oP4gAAP7lbvxviKzfY0QNAHbYQYAtAUrGWADeL1280jlLdeOlSq6rVlscVxi7OxxuNVkcAAA="
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoYAA4APxF2sVCsJySisAgBgCIJZwC/7BuOQ+tV+mJjeAD+tZfl+wx1FrFqdq8eY1TLVclLcUR3HShEBtH1e+X5OnXC6CiBMAA="
     },
     {
       "id": "img-001",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_BEDROOM_L.jpg",
+      "originalName": "2.jpg",
       "variants": [
         {
           "width": 480,
@@ -47,13 +47,13 @@
           "path": "projects/upvill/img-001-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZwDE2BZRLfyWjIQaJmAA/ujxEbTY0jPLXBuFZfLujh+mjIgM7oPqVcZFwZypMe+QFWDjuddmq6DM5AAAAA=="
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQC7AA/b15M+ZQAA+/Oo9EjSH4hcBDJhkdNpLtToKxFVJrcEfWfrfuhrmRqrQASMAA=="
     },
     {
       "id": "img-002",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_FF-BALCONY_L.jpg",
+      "originalName": "22.jpg",
       "variants": [
         {
           "width": 480,
@@ -68,13 +68,13 @@
           "path": "projects/upvill/img-002-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoYAA4APxFysVAsJqSisAgBgCIJQBdgAybuQW/9WBiKsAAA/o3Kob9aVq+8PLVgiGPEdhFkKrYHVbbqZ0oNLG1tAQgWmGj+8LALEESrz/p0neEYOdEAAA=="
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC7ACDpcnElJ4ednEkIAP7AamNq1UEo8l59IcvapZRm1zHnoO/802lx8TmDPEuYH4IwqZ1u73vcrklxVUNqAAA="
     },
     {
       "id": "img-003",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_FF_RECEPTION_L.jpg",
+      "originalName": "3.jpg",
       "variants": [
         {
           "width": 480,
@@ -89,13 +89,13 @@
           "path": "projects/upvill/img-003-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJQBdgAx2/oL1oKjObssgAAP7o6NrgG+5tdtUDxQ6qidhP9HglrIsoclSp7Ra1AXj1cZPmBkc4bYAA"
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZwDCgBEmH3B0mxwAziLsm2fsO3W+ZqV9l5oC9dc/2vWt+m2RJ6zXT3UyjEPniZIeCWHThkwAAA=="
     },
     {
       "id": "img-004",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_GF-BALCONY_L.jpg",
+      "originalName": "4.jpg",
       "variants": [
         {
           "width": 480,
@@ -110,13 +110,13 @@
           "path": "projects/upvill/img-004-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCuHBhvpQ/1iHmicAD7w/mbjZ2wYNgXZqT0O/MkOF/6UiS+bBwNUeziNrNUnyJetCLN2t2gxqlgAAA="
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQDKABhoj1XO5Cv7AAD+e/34w4l3w+PYdS1Fkmd0Ht6hUo9Fkoj/PoPlQnrLgIreH5yYOPnA68eQAAA="
     },
     {
       "id": "img-005",
       "originalWidth": 1920,
-      "originalHeight": 1920,
-      "originalName": "CAM-01_GUEST-TOILET_L.jpg",
+      "originalHeight": 1080,
+      "originalName": "5.jpg",
       "variants": [
         {
           "width": 480,
@@ -131,13 +131,13 @@
           "path": "projects/upvill/img-005-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASoYABgAPwlurVArpqQit/VYAXAhCWcAyFwPCiA2SoYgkHh6r9Vjwkn5YqkAAPsT8dk6iGBei4AWuCCwfpIUFMh02hGg8DcQp06i5A1iGv64XszYgpW3OzKcIK6AAAAA"
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoYAA4APxFysFAsJqSisAgBgCIJZwC/OBY9qmypZef3SAAA/ASeQANmzjhxnXq4JxwfyOpLpXlEQ3NO63hiwH9l7zfgl/bPjWt8PkGA0LzrUJFgAAA="
     },
     {
       "id": "img-006",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_KITCHEN_L.jpg",
+      "originalName": "5x.jpg",
       "variants": [
         {
           "width": 480,
@@ -152,13 +152,13 @@
           "path": "projects/upvill/img-006-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC7ACDpcnElJ4ednEkIAP7AamNq1UEo8l59IcvapZRm1zHnoO/802lx8TmDPEuYH4IwqZ1u73vcrklxVUNqAAA="
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZQCuHBhDCvfzQsBJAAD9hv8DOJU8KLVUIkN0zYbEkXIG15UgsccT43pxzIL2W32ujF+aaFp2w9sAAAA="
     },
     {
       "id": "img-007",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_MASTER-BATHROOM_L.jpg",
+      "originalName": "6.jpg",
       "variants": [
         {
           "width": 480,
@@ -173,13 +173,13 @@
           "path": "projects/upvill/img-007-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAA4APxF2sVAsJ6SisAgBgCIJZwDKABI0qj29zwX3R1K8AP7pxH6hoRrIejJ8P669i6pa6AFRHyW/k9Z8Bpu7JgBF4T1RAAA="
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwCdAGBulzw68awqXmfEAP7R2nADSzTBKS7uDj+IRiIDyb0wJQ/bYPLww30Ew/NkK9Oe4jnZo3AUAAA="
     },
     {
       "id": "img-008",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-01_RECEPTION_L.jpg",
+      "originalName": "7.jpg",
       "variants": [
         {
           "width": 480,
@@ -194,13 +194,13 @@
           "path": "projects/upvill/img-008-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQC7AA/b15M+ZQAA+/Oo9EjSH4hcBDJhkdNpLtToKxFVJrcEfWfrfuhrmRqrQASMAA=="
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQAAW+wbqyKcpH4vTsoAAP6h595+UwOUttk8/KJDi6Bt191AW3LArdZYN76OiqVenUXwzWmQAAAA"
     },
     {
       "id": "img-009",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-02_FF-BALCONY_L.jpg",
+      "originalName": "7x.jpg",
       "variants": [
         {
           "width": 480,
@@ -215,13 +215,13 @@
           "path": "projects/upvill/img-009-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxF4tFGsJyUisAgBgCIJQBdgC/37Hv+uDOW3LAAA+Xvxz2Io5ry/Loxe90DaobE+KwPYA3FS5drNeI+4zeFmJXGC56NqLQg6SMWbSiAA"
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdAA8C5y0+YvZ1ogAA/rNOsyPu2eZL3p9NtB0VkNu43CmxZ34OSi7HvjphvZjDpvFBgBHF7xPMZDAAAA=="
     },
     {
       "id": "img-010",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-02_FF_RECEPTION_L.jpg",
+      "originalName": "8.jpg",
       "variants": [
         {
           "width": 480,
@@ -236,13 +236,13 @@
           "path": "projects/upvill/img-010-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYAA4APxFysFAsJqSisAgBgCIJYwCdACHOY/P2Qe6h2QfYAAD9SZDWJ9zHDARCCGRJEC3IFTXnmoNXjUXwi7IdX/gUAAAA"
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoYAA4APxF0sFCsJqSisAgBgCIJZwDE2CG9e1aU+2/zFpKzAAD5aosB+kmnjC7gb51J1YgBrEy+LWusRN1Gx6vn2iMMTqMAAAA="
     },
     {
       "id": "img-011",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-02_GF-BALCONY_L.jpg",
+      "originalName": "CAM-03_FF_RECEPTION_L.jpg",
       "variants": [
         {
           "width": 480,
@@ -257,13 +257,13 @@
           "path": "projects/upvill/img-011-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYAA4ALtGIxGIkLCwsDADQSgCdMoAFciW+wa0nndYh8AD9shsl4ys7UaUw9F31GWn/py5KSG+dgc4KnS5q2/L7iG1STyTQZYf0WS78VpPEgAAA"
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYgCdMvII9IkECVS23HCr4gAA/u+lz+5nWLMg+UFDRT6zaxAavibSDoegE9nKy+juOPWjpIvZvB6+jkjnD0ZlAg0g9IAA"
     },
     {
       "id": "img-012",
       "originalWidth": 1920,
-      "originalHeight": 1920,
-      "originalName": "CAM-02_GUEST-TOILET_L.jpg",
+      "originalHeight": 1080,
+      "originalName": "CAM-04_GF-BALCONY_L.jpg",
       "variants": [
         {
           "width": 480,
@@ -278,13 +278,13 @@
           "path": "projects/upvill/img-012-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQBACdASoYABgAPwFwrVArJySisAwBYCAJYwCtaBawcAqksn/vrR0RpAlVhjSFAAD4UFGIw+zqTCPCvjVnQiFSE5y+UOZuA36zV9miuqjrxK/r2nPXP4+dKvHVETNMK0XL9HSjshXM/Ftv1nuz4ZCic1MW3YoAAAA="
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwDCgB3+MQNeXt3AAP3fQWGEETAc7XA8wPiGfxsz8NKEDzy6c8Xd644mR3FeKbhm6v8gDaEmxIAA"
     },
     {
       "id": "img-013",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-02_RECEPTION_L.jpg",
+      "originalName": "GF_RECEPTION-02.jpg",
       "variants": [
         {
           "width": 480,
@@ -299,13 +299,13 @@
           "path": "projects/upvill/img-013-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA4APxFyslCsJqSisAgBgCIJZQCdAA8C5y0+YvZ1ogAA/rNOsyPu2eZL3p9NtB0VkNu43CmxZ34OSi7HvjphvZjDpvFBgBHF7xPMZDAAAA=="
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwDCgB08Clb7hfEe2QAA/Xc0Q2LYQfOPL6mt5z8Exhc0z5SKtyXHFujLxYcd/LFD01hW/FzgVJIFlSWTTKAA"
     },
     {
       "id": "img-014",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "CAM-03_BEDROOM_L.jpg",
+      "originalName": "GF_RECEPTION-04.jpg",
       "variants": [
         {
           "width": 480,
@@ -318,489 +318,6 @@
         {
           "width": 1920,
           "path": "projects/upvill/img-014-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC2yBih1wHFgA+AAP28X+VsqZjDJGGXvPLuStdVSOJbf+N/VgS4/TednFcNVkK/tQnZ0QmIvf9gpqHDbAAA"
-    },
-    {
-      "id": "img-015",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-03_FF-BALCONY_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-015-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-015-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-015-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwCw7A3u6CBbiwoAAPzTs6CNhXXdc9PZPHYKM1PW3rfstJ+Z+yzqAp120dgHgLSnzeJlXhXAOSQAAAA="
-    },
-    {
-      "id": "img-016",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-03_FF_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-016-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-016-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-016-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYgCdMvII9IkECVS23HCr4gAA/u+lz+5nWLMg+UFDRT6zaxAavibSDoegE9nKy+juOPWjpIvZvB6+jkjnD0ZlAg0g9IAA"
-    },
-    {
-      "id": "img-017",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-03_GF-BALCONY_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-017-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-017-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-017-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxFysVAsJqSisAgBgCIJYwCdABghQvg846ilCsAA/quUAkKOubg4MqEhMdr05RzcnUcX5AVAKMFLwkNfcTE8GlBAumIAAA=="
-    },
-    {
-      "id": "img-018",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-03_KITCHEN_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-018-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-018-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-018-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDA3CKJHmB19whXP3EfAAD+4u0fBaCJAg1CCzeeumz9K6S4mMUabYacdqOBmo4PMFjzG+kiL6AA"
-    },
-    {
-      "id": "img-019",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-03_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-019-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-019-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-019-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxFysVAsJqSisAgBgCIJZQCuHBhDCvfzQsBJAAD9hv8DOJU8KLVUIkN0zYbEkXIG15UgsccT43pxzIL2W32ujF+aaFp2w9sAAAA="
-    },
-    {
-      "id": "img-020",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-04_BEDROOM_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-020-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-020-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-020-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoYAA4ALtGIxGIkLCwsDADQSygE6AG6Nd6WZDRaadI4AAD+yqgcdDGFOIiRtYeVmkgRbEsjbrTJzCWMrNiHlERqxJC410wzvTWQAAAA"
-    },
-    {
-      "id": "img-021",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-04_FF-BALCONY_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-021-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-021-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-021-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQCsACHfjwK7u7LfyXwA/sAmTF9UZh0H/0khhldjJC+28RfspUvu24JEYAAA"
-    },
-    {
-      "id": "img-022",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-04_FF_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-022-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-022-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-022-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwCsACPmuhC6P3wOPgAA/qvavAiNs0CvzYVk5B1skVknWOsEBs3Qs9qG1KOwH74GsozdlcxseHgAAAA="
-    },
-    {
-      "id": "img-023",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-04_GF-BALCONY_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-023-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-023-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-023-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwDCgB3+MQNeXt3AAP3fQWGEETAc7XA8wPiGfxsz8NKEDzy6c8Xd644mR3FeKbhm6v8gDaEmxIAA"
-    },
-    {
-      "id": "img-024",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-04_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-024-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-024-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-024-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASoYAA4APxF2sVCsJySisAgBgCIJZwC/7BuOQ+tV+mJjeAD+tZfl+wx1FrFqdq8eY1TLVclLcUR3HShEBtH1e+X5OnXC6CiBMAA="
-    },
-    {
-      "id": "img-025",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-05_FF_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-025-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-025-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-025-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoYAA4APxF0sVCsJqSisAgBgCIJQBOgAgKc5zq0C+AA+3+qpkycJxMGf/PS9sWiK+Tl4mVM3QU6dz3uOn3jiEWO/lcHwaAA"
-    },
-    {
-      "id": "img-026",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-05_GF-BALCONY.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-026-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-026-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-026-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZwABFj+BxCkuDgAA/vhtGfapEYxabMrethnH1iKrdK6j1M1uGGxKJqgCncOAAAA="
-    },
-    {
-      "id": "img-027",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-05_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-027-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-027-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-027-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYAA4APxF0tFAsJyUisAgBgCIJYwCdAGBulzw68awqXmfEAP7R2nADSzTBKS7uDj+IRiIDyb0wJQ/bYPLww30Ew/NkK9Oe4jnZo3AUAAA="
-    },
-    {
-      "id": "img-028",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-06_FF-BALCONY_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-028-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-028-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-028-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwAAetCU8gAA/u0cPo1tofItpfUBLwUg99eroLAAAA=="
-    },
-    {
-      "id": "img-029",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-06_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-029-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-029-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-029-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZQAAW+wbqyKcpH4vTsoAAP6h595+UwOUttk8/KJDi6Bt191AW3LArdZYN76OiqVenUXwzWmQAAAA"
-    },
-    {
-      "id": "img-030",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-07_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-030-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-030-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-030-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoYAA4APxF0sFCsJqSisAgBgCIJZwDE2CG9e1aU+2/zFpKzAAD5aosB+kmnjC7gb51J1YgBrEy+LWusRN1Gx6vn2iMMTqMAAAA="
-    },
-    {
-      "id": "img-031",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-08_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-031-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-031-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-031-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoYAA4APxFyslAsJqSisAgBgCIJZwDCgBEmH3B0mxwAziLsm2fsO3W+ZqV9l5oC9dc/2vWt+m2RJ6zXT3UyjEPniZIeCWHThkwAAA=="
-    },
-    {
-      "id": "img-032",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-09_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-032-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-032-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-032-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZQCzgCIe8GarL8hTKvMwAP653w1K6SCVgg3lyIsEBxKxOPrtilR+B4W4GkWUC9wQAA=="
-    },
-    {
-      "id": "img-033",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "CAM-10_RECEPTION_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-033-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-033-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-033-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoYAA4APxFysFAsJqSisAgBgCIJZwC/OBY9qmypZef3SAAA/ASeQANmzjhxnXq4JxwfyOpLpXlEQ3NO63hiwH9l7zfgl/bPjWt8PkGA0LzrUJFgAAA="
-    },
-    {
-      "id": "img-034",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "GF_RECEPTION-01.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-034-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-034-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-034-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYAA4APxF0sVAsJySisAgBgCIJZQDKABhoj1XO5Cv7AAD+e/34w4l3w+PYdS1Fkmd0Ht6hUo9Fkoj/PoPlQnrLgIreH5yYOPnA68eQAAA="
-    },
-    {
-      "id": "img-035",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "GF_RECEPTION-02.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-035-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-035-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-035-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APxFwsFAsJiSisAgBgCIJYwDCgB08Clb7hfEe2QAA/Xc0Q2LYQfOPL6mt5z8Exhc0z5SKtyXHFujLxYcd/LFD01hW/FzgVJIFlSWTTKAA"
-    },
-    {
-      "id": "img-036",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "GF_RECEPTION-03.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-036-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-036-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-036-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoYAA4APxF0sFAsJySisAgBgCIJZQDG9Bm+7r8JYAp1eJ9cIAD9wRYn+NYjL9S7UTis9ipC62nFpIMzj7qBUgvYsZjkKqnEz2U1JAAA"
-    },
-    {
-      "id": "img-037",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "GF_RECEPTION-04.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/upvill/img-037-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/upvill/img-037-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/upvill/img-037-1920.webp"
         }
       ],
       "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoYAA4APxF6tFAsKCUisAgBgCIJZQCzgBrOig40DYa/QAD+5D8R0w99N8H9BtiXtHulUCRYkLdNbJxYtuQoT3at/iyn+kGMPLwittD3QppPznAoxTVnXGszOeUQ4AAA"

@@ -9,22 +9,30 @@
   "images": [
     {
       "id": "hero",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "CAM-001_PPP.jpg",
+      "originalWidth": 3240,
+      "originalHeight": 3240,
+      "originalName": "1.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/riyadh-villa/hero-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/riyadh-villa/hero-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/riyadh-villa/hero-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABgAPwVyrFArpyQisAwBcCCJZQDMHCHMZTxM05wntvyzbirUMBAAAP6dZQOufXx/C49TvmFirS/CboDM3RZN/RY4Qy/tfcOf89HnNHNFsszl8uPdZHFbsM2hQVyGU0dFOzHA0gmAAA=="
+      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYABgAPxF0tFMsJiUisBgIAYAiCUAW2QG7D9sPYzgZD24YtknFAORcpqZFxPAA/dFSceBODMpyzEtrzRbrIu1KGsSG2ejEupbTR06Poy/CD74OoXJqY9zcroLYMnu4KIiNGSMD7rTAQ5f1BXfJGdx1AAA="
     },
     {
       "id": "img-001",
-      "originalWidth": 2160,
-      "originalHeight": 2160,
-      "originalName": "CAM-011_PP.jpg",
+      "originalWidth": 3240,
+      "originalHeight": 3240,
+      "originalName": "2.jpg",
       "variants": [
         {
           "width": 480,
@@ -39,13 +47,13 @@
           "path": "projects/riyadh-villa/img-001-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASoYABgAPxF8t1QsJ6UjKAqpgCIJZwDI1BGbHA+mz6ltBsmTZmO7kc37PVujQAD+fby/JiD8ZB18tqZ7Qbs7I20/R7eQhiLPFZ7xm2sQB9imb6vKefHWOgAD4DwQqQIHl0Q4GQAA"
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABgAPxF8r1KsJ6SiqA1RgCIJQBgbgdtApu7ZNVSmK6MgLAD3Ho5A23arhbER1++G4qgorwIqZEmBqF7/2A4CKvrikiGsY1c27qh8T3bBtVqldkAAAA=="
     },
     {
       "id": "img-002",
       "originalWidth": 3240,
       "originalHeight": 3240,
-      "originalName": "CAM-01_PP.jpg",
+      "originalName": "3.jpg",
       "variants": [
         {
           "width": 480,
@@ -60,13 +68,13 @@
           "path": "projects/riyadh-villa/img-002-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYABgAPxF0tFMsJiUisBgIAYAiCUAW2QG7D9sPYzgZD24YtknFAORcpqZFxPAA/dFSceBODMpyzEtrzRbrIu1KGsSG2ejEupbTR06Poy/CD74OoXJqY9zcroLYMnu4KIiNGSMD7rTAQ5f1BXfJGdx1AAA="
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBACdASoYABgAPwl0slArpyUisBgMAXAhCWUAv+wPH0fQy2nnyVzvzqyAAPxPp5lqNLtcOH+reHomqmsjEvE1fnCEC3YaGCPbdd42Asor4Zy+T1QAAA=="
     },
     {
       "id": "img-003",
-      "originalWidth": 2160,
-      "originalHeight": 2160,
-      "originalName": "CAM-022_PP.jpg",
+      "originalWidth": 3240,
+      "originalHeight": 3240,
+      "originalName": "4.jpg",
       "variants": [
         {
           "width": 480,
@@ -81,26 +89,34 @@
           "path": "projects/riyadh-villa/img-003-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF2slAsJ6SisAgBgCIJYgDDNGlpSKiP3hPJCew0x7LLpuAWvOiJcAD+lDMmjKzxuvy/pmvfBtz3Bur5ypPGNkiUOHmtldCdJG+rsDfVHo2u0jR9naURDankUov/FgQcAAA="
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwBACdASoYABgAPv1qq1ArJiQit/qoAWAfiWUAzUgbkIr51yHPngCCm2a0LK0uCAAA/t7oPlb5SFR745bBHpP1bJKwp3S+nsbclPznAhKiCOmtR46VaL8auQAAAA=="
     },
     {
       "id": "img-004",
-      "originalWidth": 1080,
-      "originalHeight": 1080,
-      "originalName": "CAM-02_PP.jpg",
+      "originalWidth": 3240,
+      "originalHeight": 3240,
+      "originalName": "5.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/riyadh-villa/img-004-480.webp"
+        },
+        {
+          "width": 1280,
+          "path": "projects/riyadh-villa/img-004-1280.webp"
+        },
+        {
+          "width": 1920,
+          "path": "projects/riyadh-villa/img-004-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPw1osFAsJaSit/VYAYAhiWUAwNwPSuneoBSovs9a//3Pm8rnBZ4AAP7qls6XkzhiNAxawNrikV7uSUlQGaP6SV0rxG6jQvSpeOxBByB+EpMHd6UVtqMXHh3MQAA="
+      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYABgAPxF+t1UsJ6UjKAgBgCIJQBbfbIA1PzBq20CP9dzISvbiMDPUcU8yU2gA/M+93741TMMvyPGvwRmBY4B5oJf2gJ78Pt1nzHrfevP+50d5pqqHRrGbYyxfNr0nhANmVfK9z42l8HAA"
     },
     {
       "id": "img-005",
-      "originalWidth": 2160,
-      "originalHeight": 2160,
-      "originalName": "CAM-033_PP.jpg",
+      "originalWidth": 3240,
+      "originalHeight": 3240,
+      "originalName": "6.jpg",
       "variants": [
         {
           "width": 480,
@@ -115,51 +131,39 @@
           "path": "projects/riyadh-villa/img-005-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPxF2tFIsJyUisBgIAYAiCWUAzYQ0hP2ucUq7TVEZa6wdJFL5X7aXwAD9ufO8eIRZwxuKN4jEtQVudrJvqhcWKx3WMPKqizTm20QHN/x7+xHlJ09a0Ss1hCJ3gpI3QvtUAIAAAA=="
+      "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASoYABgAPv1wsFArJyUisAwBYB+JYwDH5B6AJAQmTgzMcseqBnFjKbNaAAD+KzEgHc1+rUOeROcoqNfqvX/xXVOA1NJqtHxVcNhMLFCQp0GsLeiNNP6b0xYZWp7EwEJWyoAAAA=="
     },
     {
       "id": "img-006",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "CAM-03_PP.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "7.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/riyadh-villa/img-006-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/riyadh-villa/img-006-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/riyadh-villa/img-006-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASoYABgAPxF+t1UsJ6UjKAgBgCIJQBbfbIA1PzBq20CP9dzISvbiMDPUcU8yU2gA/M+93741TMMvyPGvwRmBY4B5oJf2gJ78Pt1nzHrfevP+50d5pqqHRrGbYyxfNr0nhANmVfK9z42l8HAA"
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABgAPwVyrFArpyQisAwBcCCJZQDMHCHMZTxM05wntvyzbirUMBAAAP6dZQOufXx/C49TvmFirS/CboDM3RZN/RY4Qy/tfcOf89HnNHNFsszl8uPdZHFbsM2hQVyGU0dFOzHA0gmAAA=="
     },
     {
       "id": "img-007",
-      "originalWidth": 1400,
-      "originalHeight": 884,
-      "originalName": "CAM-04_PP.jpg",
+      "originalWidth": 1080,
+      "originalHeight": 1080,
+      "originalName": "8.jpg",
       "variants": [
         {
           "width": 480,
           "path": "projects/riyadh-villa/img-007-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/riyadh-villa/img-007-1280.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYAA8APxF2slEsJySisAgBgCIJZQCw7Be+oyKA1SO7gAD8jIAYp5jrXwn4utlE3N/8haeo3qTsCwHhkp8IoZdMwDT6/wAA"
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASoYABgAPw1osFAsJaSit/VYAYAhiWUAwNwPSuneoBSovs9a//3Pm8rnBZ4AAP7qls6XkzhiNAxawNrikV7uSUlQGaP6SV0rxG6jQvSpeOxBByB+EpMHd6UVtqMXHh3MQAA="
     },
     {
       "id": "img-008",
       "originalWidth": 1080,
       "originalHeight": 1080,
-      "originalName": "CAM-04_PPp.jpg",
+      "originalName": "9.jpg",
       "variants": [
         {
           "width": 480,
@@ -170,9 +174,9 @@
     },
     {
       "id": "img-009",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "CAM-10_PP.jpg",
+      "originalWidth": 2160,
+      "originalHeight": 2160,
+      "originalName": "CAM-011_PP.jpg",
       "variants": [
         {
           "width": 480,
@@ -187,13 +191,13 @@
           "path": "projects/riyadh-villa/img-009-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASoYABgAPv1wsFArJyUisAwBYB+JYwDH5B6AJAQmTgzMcseqBnFjKbNaAAD+KzEgHc1+rUOeROcoqNfqvX/xXVOA1NJqtHxVcNhMLFCQp0GsLeiNNP6b0xYZWp7EwEJWyoAAAA=="
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASoYABgAPxF8t1QsJ6UjKAqpgCIJZwDI1BGbHA+mz6ltBsmTZmO7kc37PVujQAD+fby/JiD8ZB18tqZ7Qbs7I20/R7eQhiLPFZ7xm2sQB9imb6vKefHWOgAD4DwQqQIHl0Q4GQAA"
     },
     {
       "id": "img-010",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "CAM-11_PP.jpg",
+      "originalWidth": 2160,
+      "originalHeight": 2160,
+      "originalName": "CAM-022_PP.jpg",
       "variants": [
         {
           "width": 480,
@@ -208,13 +212,13 @@
           "path": "projects/riyadh-villa/img-010-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABgAPxF8r1KsJ6SiqA1RgCIJQBgbgdtApu7ZNVSmK6MgLAD3Ho5A23arhbER1++G4qgorwIqZEmBqF7/2A4CKvrikiGsY1c27qh8T3bBtVqldkAAAA=="
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPxF2slAsJ6SisAgBgCIJYgDDNGlpSKiP3hPJCew0x7LLpuAWvOiJcAD+lDMmjKzxuvy/pmvfBtz3Bur5ypPGNkiUOHmtldCdJG+rsDfVHo2u0jR9naURDankUov/FgQcAAA="
     },
     {
       "id": "img-011",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "CAM-14_PP.jpg",
+      "originalWidth": 2160,
+      "originalHeight": 2160,
+      "originalName": "CAM-033_PP.jpg",
       "variants": [
         {
           "width": 480,
@@ -229,49 +233,7 @@
           "path": "projects/riyadh-villa/img-011-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBACdASoYABgAPwl0slArpyUisBgMAXAhCWUAv+wPH0fQy2nnyVzvzqyAAPxPp5lqNLtcOH+reHomqmsjEvE1fnCEC3YaGCPbdd42Asor4Zy+T1QAAA=="
-    },
-    {
-      "id": "img-012",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "CAM-16_PP.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/riyadh-villa/img-012-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/riyadh-villa/img-012-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/riyadh-villa/img-012-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwBACdASoYABgAPv1qq1ArJiQit/qoAWAfiWUAzUgbkIr51yHPngCCm2a0LK0uCAAA/t7oPlb5SFR745bBHpP1bJKwp3S+nsbclPznAhKiCOmtR46VaL8auQAAAA=="
-    },
-    {
-      "id": "img-013",
-      "originalWidth": 3240,
-      "originalHeight": 3240,
-      "originalName": "COVER_CAM-001_PP.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/riyadh-villa/img-013-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/riyadh-villa/img-013-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/riyadh-villa/img-013-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASoYABgAPw1yslAsJyUisBgMAYAhiWUAuwAQN9QqnASdI+0F3ageF24sNfQAAP5US1FpZGm4tzamxemalRHT1+XKFvr+6CwfGGhGKUFcCgzArrkIgAS1Cnvx+jb4/98g/GioDO0XrEf8AAAA"
+      "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYABgAPxF2tFIsJyUisBgIAYAiCWUAzYQ0hP2ucUq7TVEZa6wdJFL5X7aXwAD9ufO8eIRZwxuKN4jEtQVudrJvqhcWKx3WMPKqizTm20QHN/x7+xHlJ09a0Ss1hCJ3gpI3QvtUAIAAAA=="
     }
   ]
 }

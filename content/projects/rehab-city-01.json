@@ -11,7 +11,7 @@
       "id": "hero",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "COVER_REHAB-CITY_CAM-04_L.jpg",
+      "originalName": "1.jpg",
       "variants": [
         {
           "width": 480,
@@ -32,7 +32,7 @@
       "id": "img-001",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_BATHROOM_CAM-02_L.jpg",
+      "originalName": "2.jpg",
       "variants": [
         {
           "width": 480,
@@ -47,13 +47,13 @@
           "path": "projects/rehab-city-01/img-001-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAA4ALtGIxGIkLCwsDADQSygFvcIh+0uT2E9DqKQAAP7xYo2EjqOPC3p40TuwGWRT+qVfHzPQrJG+gTvnR00DqD232u3quqQAAA=="
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APxF2slEsJySisAgBgCIJZwCdABhINdZG05cUcAD7Q9mOdLR2wKZegPUvMAxtp5af6sAYbnIMIm3GKsvXUJ+rnR402G7ph2p4/Q8TBLIAAAA="
     },
     {
       "id": "img-002",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "REHAB-CITY_BATHROOM_CAM-03_L.jpg",
+      "originalWidth": 2000,
+      "originalHeight": 1176,
+      "originalName": "3.jpg",
       "variants": [
         {
           "width": 480,
@@ -68,13 +68,13 @@
           "path": "projects/rehab-city-01/img-002-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoYAA4APxFwsFAsJiSisAgBgCIJZwC+SBTnoFH96oNzrD8AAP5HzIyw3uTaI5l0XUtHjySD5GrYGONjW7XxZRTWps5wyrtjE/5aq+sJO86QAAAA"
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCsABhevBRLPORdriAA/r9jXHKiAdbawUVR8H3q5B9EAvru9xRnNnYX8lKK/CfI8aT79AAAAA=="
     },
     {
       "id": "img-003",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_BATHROOM_CAM-04_L.jpg",
+      "originalName": "4.jpg",
       "variants": [
         {
           "width": 480,
@@ -89,13 +89,13 @@
           "path": "projects/rehab-city-01/img-003-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYwC7ACF5789PyFwFDP9h10AA/tkxfWKsqMSW+GIW8nnomeAVKMmzXJtbeOyKfp7fqB9Vnhkd/VH9IcrMpgAA"
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDCgBnQ0fv2t1h/ysXObAD+475PGH4huTUAPZd/9ZQ/2G2cj9JBjXzQNgfXn+KQk1sYZIjxVsuyfTQiwAAA"
     },
     {
       "id": "img-004",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_BATHROOM_CAM-05_L.jpg",
+      "originalName": "5.jpg",
       "variants": [
         {
           "width": 480,
@@ -110,13 +110,13 @@
           "path": "projects/rehab-city-01/img-004-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC7AB6WV815WGRwffvgAPr+cKSWgZjQZjPwK8XHAls1BO++UDhiYthR1G+IxOkxG3H5XwVbDsQA"
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZwCzgBwzSwLn+x+XjqQAAPnjLqqaNxDSLbjfrsPSVHuIwGLXfdPj024YoEZVLLM8FAAA"
     },
     {
       "id": "img-005",
-      "originalWidth": 2000,
-      "originalHeight": 1176,
-      "originalName": "REHAB-CITY_CAM-01_L.jpg",
+      "originalWidth": 1920,
+      "originalHeight": 1080,
+      "originalName": "5x.jpg",
       "variants": [
         {
           "width": 480,
@@ -131,13 +131,13 @@
           "path": "projects/rehab-city-01/img-005-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZQCsABhevBRLPORdriAA/r9jXHKiAdbawUVR8H3q5B9EAvru9xRnNnYX8lKK/CfI8aT79AAAAA=="
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwCnFBk4B1+uG5mYSgAA/skGLrvP1m4+gXL31OSGd6Nh0l2ORgiOgCxX5+FgxgnwERYsuyqe5ZgAAAA="
     },
     {
       "id": "img-006",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_CAM-02_L.jpg",
+      "originalName": "6.jpg",
       "variants": [
         {
           "width": 480,
@@ -152,13 +152,13 @@
           "path": "projects/rehab-city-01/img-006-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APxF2slEsJySisAgBgCIJZwCdABhINdZG05cUcAD7Q9mOdLR2wKZegPUvMAxtp5af6sAYbnIMIm3GKsvXUJ+rnR402G7ph2p4/Q8TBLIAAAA="
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAA4ALtGIxGIkLCwsDADQSygFvcIh+0uT2E9DqKQAAP7xYo2EjqOPC3p40TuwGWRT+qVfHzPQrJG+gTvnR00DqD232u3quqQAAA=="
     },
     {
       "id": "img-007",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_CAM-03_L.jpg",
+      "originalName": "REHAB-CITY_BATHROOM_CAM-04_L.jpg",
       "variants": [
         {
           "width": 480,
@@ -173,13 +173,13 @@
           "path": "projects/rehab-city-01/img-007-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYAA4APxF0slCsJqSisAgBgCIJZwCnFBk4B1+uG5mYSgAA/skGLrvP1m4+gXL31OSGd6Nh0l2ORgiOgCxX5+FgxgnwERYsuyqe5ZgAAAA="
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoYAA4APxF0sFAsJySisAgBgCIJYwC7ACF5789PyFwFDP9h10AA/tkxfWKsqMSW+GIW8nnomeAVKMmzXJtbeOyKfp7fqB9Vnhkd/VH9IcrMpgAA"
     },
     {
       "id": "img-008",
       "originalWidth": 1920,
       "originalHeight": 1080,
-      "originalName": "REHAB-CITY_CAM-055_L.jpg",
+      "originalName": "REHAB-CITY_BATHROOM_CAM-05_L.jpg",
       "variants": [
         {
           "width": 480,
@@ -194,28 +194,7 @@
           "path": "projects/rehab-city-01/img-008-1920.webp"
         }
       ],
-      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoYAA4APxF4slEsJ6SisAgBgCIJZwCzgBwzSwLn+x+XjqQAAPnjLqqaNxDSLbjfrsPSVHuIwGLXfdPj024YoEZVLLM8FAAA"
-    },
-    {
-      "id": "img-009",
-      "originalWidth": 1920,
-      "originalHeight": 1080,
-      "originalName": "REHAB-CITY_CAM-06_L.jpg",
-      "variants": [
-        {
-          "width": 480,
-          "path": "projects/rehab-city-01/img-009-480.webp"
-        },
-        {
-          "width": 1280,
-          "path": "projects/rehab-city-01/img-009-1280.webp"
-        },
-        {
-          "width": 1920,
-          "path": "projects/rehab-city-01/img-009-1920.webp"
-        }
-      ],
-      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYAA4APxF0tFAsJyUisAgBgCIJZwDCgBnQ0fv2t1h/ysXObAD+475PGH4huTUAPZd/9ZQ/2G2cj9JBjXzQNgfXn+KQk1sYZIjxVsuyfTQiwAAA"
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoYAA4APxF0sFAsJySisAgBgCIJZQC7AB6WV815WGRwffvgAPr+cKSWgZjQZjPwK8XHAls1BO++UDhiYthR1G+IxOkxG3H5XwVbDsQA"
     }
   ]
 }
